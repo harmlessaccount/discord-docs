@@ -11,3 +11,15 @@ Discord self-bots automate actions that either wouldn't be possible as an offici
 ## Directory
 
 [Session IDs](https://github.com/harmlessaccount/discord-docs/blob/main/SESSION_ID.md)
+
+## Resources
+
+[TLS Client](https://github.com/FlorianREGAZ/Python-Tls-Client)
+[requests](https://github.com/psf/requests)
+[discord.py-self](https://github.com/dolfies/discord.py-self)
+[DMDGO](https://github.com/V4NSH4J/discord-mass-DM-GO)
+[Discord Unofficial Docs](https://arandomnewaccount.gitlab.io/discord-unofficial-docs/)
+[HugginFace](https://huggingface.co/)
+[CapSolver](https://www.capsolver.com/)
+[TrackMe/tls.peet.ws](https://github.com/wwhtrbbtt/TrackMe)
+[GO TLS Client](https://github.com/bogdanfinn/tls-client)
