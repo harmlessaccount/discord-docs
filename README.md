@@ -10,7 +10,7 @@ Discord self-bots have been around for a while. They aim to automate tasks on Di
 
 ## Starting
 
-# Goals
+### Goals
 
 - **For simple self-bots that avoid CAPTCHA**: Use `discord.py-self`. This library is reliable but may trigger CAPTCHA for certain actions.
 - **For more advanced self-bots (e.g., token generators, server joiners)**: Consider the following resources:
