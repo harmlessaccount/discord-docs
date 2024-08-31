@@ -1,6 +1,7 @@
 # Automating Tasks on UnbelievaBot
 
-This will teach you how to fetch embeds
+This will teach you how to fetch embeds, read messages from a certain bot and listen to only certain channel IDs.
+
 ## Automation Script
 
 Create a file named `unbelieva.py`:
@@ -88,4 +89,4 @@ bot.run(token)
 
 ```
 
-a
+Now, this works pretty good. There's some bandage fixes but overall it should be pretty reliable to run for a long time. It's simple code and might need some changes but most important: it works. We used basic python knowledge in real use-cases.
