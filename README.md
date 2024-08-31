@@ -14,12 +14,12 @@ Discord self-bots automate actions that either wouldn't be possible as an offici
 
 ## Resources
 
-[TLS Client](https://github.com/FlorianREGAZ/Python-Tls-Client)
-[requests](https://github.com/psf/requests)
-[discord.py-self](https://github.com/dolfies/discord.py-self)
-[DMDGO](https://github.com/V4NSH4J/discord-mass-DM-GO)
-[Discord Unofficial Docs](https://arandomnewaccount.gitlab.io/discord-unofficial-docs/)
-[HugginFace](https://huggingface.co/)
-[CapSolver](https://www.capsolver.com/)
-[TrackMe/tls.peet.ws](https://github.com/wwhtrbbtt/TrackMe)
-[GO TLS Client](https://github.com/bogdanfinn/tls-client)
+[TLS Client](https://github.com/FlorianREGAZ/Python-Tls-Client)\n
+[requests](https://github.com/psf/requests)\n
+[discord.py-self](https://github.com/dolfies/discord.py-self)\n
+[DMDGO](https://github.com/V4NSH4J/discord-mass-DM-GO)\n
+[Discord Unofficial Docs](https://arandomnewaccount.gitlab.io/discord-unofficial-docs/)\n
+[HugginFace](https://huggingface.co/)\n
+[CapSolver](https://www.capsolver.com/)\n
+[TrackMe/tls.peet.ws](https://github.com/wwhtrbbtt/TrackMe)\n
+[GO TLS Client](https://github.com/bogdanfinn/tls-client)\n
