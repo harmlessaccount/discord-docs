@@ -1,6 +1,6 @@
 # First bot (Python)
 
-Let's create our first bot using discord.py-self.
+Let's create our first bot using [discord.py-self](https://github.com/dolfies/discord.py-self).
 
 `pip install discord.py-self`
 
