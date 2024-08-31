@@ -4,9 +4,10 @@
 
 Welcome to the unofficial Discord documentation for user account automation, AKA self-bots. This repository is not affiliated with Discord. **Discord self-bots are against TOS and may get you banned.**
 
-## What are self-bots
+## Fundamentals
 
-Discord self-bots automate actions that either wouldn't be possible as an official bot, or would be limited. This also includes other aspects of Discord automation, such as account creators, server joiners, etc.
+Discord self-bots have been around for a while. They aim to automate tasks on Discord, whether to create chaos or to advance in economy bots. There are other uses, such as spamming and phishing. While I won’t directly cover spamming on Discord, you might figure it out after reading this guide.
+
 
 ## Directory
 
