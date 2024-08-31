@@ -8,6 +8,18 @@ Welcome to the unofficial Discord documentation for user account automation, AKA
 
 Discord self-bots have been around for a while. They aim to automate tasks on Discord, whether to create chaos or to advance in economy bots. There are other uses, such as spamming and phishing. While I won’t directly cover spamming on Discord, you might figure it out after reading this guide.
 
+## Starting
+
+# Goals
+
+- **For simple self-bots that avoid CAPTCHA**: Use `discord.py-self`. This library is reliable but may trigger CAPTCHA for certain actions.
+- **For more advanced self-bots (e.g., token generators, server joiners)**: Consider the following resources:
+  - [Python TLS](https://github.com/FlorianREGAZ/Python-Tls-Client/)
+  - [GoLang TLS](https://github.com/bogdanfinn/tls-client)
+  - [CClient](https://github.com/x04/cclient)
+  - [ChromeDP](https://github.com/chromedp/chromedp)
+
+  GoLang is generally preferred for creating human-like bots due to Python's limitations in this area.
 
 ## Directory
 
