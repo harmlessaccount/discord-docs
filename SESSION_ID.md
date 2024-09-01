@@ -1,3 +1,7 @@
+# Information about Session IDs
+
+This is a document about Session IDs on Discord. Reversing JS is necessary to know how they are generated. Work in progress.
+
 ### Session ID
 
 - **Format**: Usually a 32-character hexadecimal string, e.g., `"a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6"`.
