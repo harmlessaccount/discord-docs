@@ -8,6 +8,8 @@ Firstly, if we fetch a message with buttons, and try to print its components usi
 
 This represents buttons, and is what `button.click()` takes to function. Let's see some example code.
 
+# Automation Script
+
 ```
 import discord
 from discord.ext import commands
