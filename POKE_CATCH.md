@@ -1,4 +1,4 @@
-# Poké Catcher
+# Poké Catcher submitted by @StrawberryChemical95
 
 This will teach you how to check for message edits, send slash commands and applying button pressing. Use this with caution as you may be banned on the target bot. [Bot invite](https://discord.com/oauth2/authorize?client_id=707333868713410682&permissions=2147863616&scope=bot%20applications.commands).
 
