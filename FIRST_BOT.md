@@ -6,6 +6,8 @@ Let's create our first bot using [discord.py-self](https://github.com/dolfies/di
 
 Then, make a file, name it whatever you like (make sure it's not named something like discord.py)
 
+# Automation Script
+
     #selfbot.py
     import discord
     from discord.ext import commands
