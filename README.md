@@ -26,6 +26,7 @@ Discord self-bots have been around for a while. They aim to automate tasks on Di
 - [First Bot](https://github.com/harmlessaccount/discord-docs/blob/main/FIRST_BOT.md)
 - [Fetching embeds](https://github.com/harmlessaccount/discord-docs/blob/main/UNBELIEVA_WORK.md)
 - [Pressing Buttons](https://github.com/harmlessaccount/discord-docs/blob/main/BUTTONS.md)
+- [Poké Catcher](https://github.com/harmlessaccount/discord-docs/blob/main/POKE_CATCH.md)
 - [Session IDs](https://github.com/harmlessaccount/discord-docs/blob/main/SESSION_ID.md)
 
 ## Resources
