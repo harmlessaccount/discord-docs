@@ -1,4 +1,4 @@
-# Poké Catcher submitted by @StrawberryChemical95
+# Poké Catcher submitted by [@StrawberryChemical95](https://github.com/StrawberryChemical95)
 
 This will teach you how to check for message edits, send slash commands and applying button pressing. Use this with caution as you may be banned on the target bot. [Bot invite](https://discord.com/oauth2/authorize?client_id=707333868713410682&permissions=2147863616&scope=bot%20applications.commands).
 
@@ -122,3 +122,5 @@ while True:
     schedule.run_pending()
     time.sleep(5)
 ```
+
+The bot should take a while to start due to how it handles cooldowns. If this worked, your bot should run `/pokemon` ten times every hour, and also run `/pokestop` every three hours. Thanks again [@StrawberryChemical95](https://github.com/StrawberryChemical95) for the submission.
