@@ -1,0 +1,6941 @@
+[
+    {
+        "file_name": "abomasnow-mega.png",
+        "response_time": 0.010028839111328125,
+        "pokemon": "Abomasnow"
+    },
+    {
+        "file_name": "abomasnow.png",
+        "response_time": 0.0029976367950439453,
+        "pokemon": "Abomasnow"
+    },
+    {
+        "file_name": "abra.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Abra"
+    },
+    {
+        "file_name": "absol-mega.png",
+        "response_time": 0.0035250186920166016,
+        "pokemon": "Absol"
+    },
+    {
+        "file_name": "absol.png",
+        "response_time": 0.0030558109283447266,
+        "pokemon": "Absol"
+    },
+    {
+        "file_name": "accelgor.png",
+        "response_time": 0.0035715103149414062,
+        "pokemon": "Accelgor"
+    },
+    {
+        "file_name": "aegislash-blade.png",
+        "response_time": 0.0025086402893066406,
+        "pokemon": "Aegislash"
+    },
+    {
+        "file_name": "aegislash-shield.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Aegislash"
+    },
+    {
+        "file_name": "aerodactyl-mega.png",
+        "response_time": 0.002990245819091797,
+        "pokemon": "Aerodactyl"
+    },
+    {
+        "file_name": "aerodactyl.png",
+        "response_time": 0.0030241012573242188,
+        "pokemon": "Aerodactyl"
+    },
+    {
+        "file_name": "aggron-mega.png",
+        "response_time": 0.0025310516357421875,
+        "pokemon": "Aggron"
+    },
+    {
+        "file_name": "aggron.png",
+        "response_time": 0.0024611949920654297,
+        "pokemon": "Aggron"
+    },
+    {
+        "file_name": "aipom.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Aipom"
+    },
+    {
+        "file_name": "alakazam-mega.png",
+        "response_time": 0.0029892921447753906,
+        "pokemon": "Alakazam"
+    },
+    {
+        "file_name": "alakazam.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Alakazam"
+    },
+    {
+        "file_name": "alcremie-gmax.png",
+        "response_time": 0.0019991397857666016,
+        "pokemon": "Voltorb"
+    },
+    {
+        "file_name": "alcremie.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Alcremie"
+    },
+    {
+        "file_name": "alomomola.png",
+        "response_time": 0.002968311309814453,
+        "pokemon": "Alomomola"
+    },
+    {
+        "file_name": "altaria-mega.png",
+        "response_time": 0.002512216567993164,
+        "pokemon": "Altaria"
+    },
+    {
+        "file_name": "altaria.png",
+        "response_time": 0.0029947757720947266,
+        "pokemon": "Altaria"
+    },
+    {
+        "file_name": "amaura.png",
+        "response_time": 0.0020096302032470703,
+        "pokemon": "Amaura"
+    },
+    {
+        "file_name": "ambipom.png",
+        "response_time": 0.003033161163330078,
+        "pokemon": "Ambipom"
+    },
+    {
+        "file_name": "amoonguss.png",
+        "response_time": 0.003522157669067383,
+        "pokemon": "Amoonguss"
+    },
+    {
+        "file_name": "ampharos-mega.png",
+        "response_time": 0.0030028820037841797,
+        "pokemon": "Ampharos"
+    },
+    {
+        "file_name": "ampharos.png",
+        "response_time": 0.0030095577239990234,
+        "pokemon": "Ampharos"
+    },
+    {
+        "file_name": "annihilape.png",
+        "response_time": 0.0035257339477539062,
+        "pokemon": "Absol"
+    },
+    {
+        "file_name": "anorith.png",
+        "response_time": 0.003023862838745117,
+        "pokemon": "Anorith"
+    },
+    {
+        "file_name": "appletun-gmax.png",
+        "response_time": 0.0025396347045898438,
+        "pokemon": "Eternatus"
+    },
+    {
+        "file_name": "appletun.png",
+        "response_time": 0.003029346466064453,
+        "pokemon": "Applin"
+    },
+    {
+        "file_name": "applin.png",
+        "response_time": 0.004149675369262695,
+        "pokemon": "Applin"
+    },
+    {
+        "file_name": "araquanid.png",
+        "response_time": 0.0020034313201904297,
+        "pokemon": "Araquanid"
+    },
+    {
+        "file_name": "arbok.png",
+        "response_time": 0.003010988235473633,
+        "pokemon": "Arbok"
+    },
+    {
+        "file_name": "arboliva.png",
+        "response_time": 0.002510547637939453,
+        "pokemon": "Tropius"
+    },
+    {
+        "file_name": "arcanine-hisui.png",
+        "response_time": 0.0035331249237060547,
+        "pokemon": "Litwick"
+    },
+    {
+        "file_name": "arcanine.png",
+        "response_time": 0.002524852752685547,
+        "pokemon": "Arcanine"
+    },
+    {
+        "file_name": "arceus.png",
+        "response_time": 0.003005504608154297,
+        "pokemon": "Arceus"
+    },
+    {
+        "file_name": "archen.png",
+        "response_time": 0.0019965171813964844,
+        "pokemon": "Archen"
+    },
+    {
+        "file_name": "archeops.png",
+        "response_time": 0.0035207271575927734,
+        "pokemon": "Archeops"
+    },
+    {
+        "file_name": "arctibax.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Bergmite"
+    },
+    {
+        "file_name": "arctovish.png",
+        "response_time": 0.0039713382720947266,
+        "pokemon": "Arctovish"
+    },
+    {
+        "file_name": "arctozolt.png",
+        "response_time": 0.0030274391174316406,
+        "pokemon": "Arctozolt"
+    },
+    {
+        "file_name": "ariados.png",
+        "response_time": 0.0035245418548583984,
+        "pokemon": "Ariados"
+    },
+    {
+        "file_name": "armaldo.png",
+        "response_time": 0.002007722854614258,
+        "pokemon": "Armaldo"
+    },
+    {
+        "file_name": "armarouge.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Scrafty"
+    },
+    {
+        "file_name": "aromatisse.png",
+        "response_time": 0.0025255680084228516,
+        "pokemon": "Aromatisse"
+    },
+    {
+        "file_name": "aron.png",
+        "response_time": 0.0025234222412109375,
+        "pokemon": "Aron"
+    },
+    {
+        "file_name": "arrokuda.png",
+        "response_time": 0.0025238990783691406,
+        "pokemon": "Arrokuda"
+    },
+    {
+        "file_name": "articuno-galar.png",
+        "response_time": 0.0025174617767333984,
+        "pokemon": "Muk"
+    },
+    {
+        "file_name": "articuno.png",
+        "response_time": 0.0030002593994140625,
+        "pokemon": "Articuno"
+    },
+    {
+        "file_name": "audino-mega.png",
+        "response_time": 0.0030128955841064453,
+        "pokemon": "Audino"
+    },
+    {
+        "file_name": "audino.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Audino"
+    },
+    {
+        "file_name": "aurorus.png",
+        "response_time": 0.002527475357055664,
+        "pokemon": "Aurorus"
+    },
+    {
+        "file_name": "avalugg.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Avalugg"
+    },
+    {
+        "file_name": "axew.png",
+        "response_time": 0.003009319305419922,
+        "pokemon": "Axew"
+    },
+    {
+        "file_name": "azelf.png",
+        "response_time": 0.0025336742401123047,
+        "pokemon": "Azelf"
+    },
+    {
+        "file_name": "azumarill.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Azumarill"
+    },
+    {
+        "file_name": "azurill.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Azurill"
+    },
+    {
+        "file_name": "bagon.png",
+        "response_time": 0.0030236244201660156,
+        "pokemon": "Bagon"
+    },
+    {
+        "file_name": "baltoy.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Baltoy"
+    },
+    {
+        "file_name": "banette-mega.png",
+        "response_time": 0.002502918243408203,
+        "pokemon": "Banette"
+    },
+    {
+        "file_name": "banette.png",
+        "response_time": 0.002511739730834961,
+        "pokemon": "Banette"
+    },
+    {
+        "file_name": "barbaracle.png",
+        "response_time": 0.0019965171813964844,
+        "pokemon": "Barbaracle"
+    },
+    {
+        "file_name": "barboach.png",
+        "response_time": 0.0035240650177001953,
+        "pokemon": "Barboach"
+    },
+    {
+        "file_name": "barraskewda.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Barraskewda"
+    },
+    {
+        "file_name": "basculegion-male.png",
+        "response_time": 0.004024982452392578,
+        "pokemon": "Dracovish"
+    },
+    {
+        "file_name": "basculin-blue-striped.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Basculin"
+    },
+    {
+        "file_name": "basculin-red-striped.png",
+        "response_time": 0.003529787063598633,
+        "pokemon": "Basculin"
+    },
+    {
+        "file_name": "bastiodon.png",
+        "response_time": 0.002000570297241211,
+        "pokemon": "Bastiodon"
+    },
+    {
+        "file_name": "baxcalibur.png",
+        "response_time": 0.003524303436279297,
+        "pokemon": "Pangoro"
+    },
+    {
+        "file_name": "bayleef.png",
+        "response_time": 0.0015156269073486328,
+        "pokemon": "Bayleef"
+    },
+    {
+        "file_name": "beartic.png",
+        "response_time": 0.002524852752685547,
+        "pokemon": "Beartic"
+    },
+    {
+        "file_name": "beautifly.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Beautifly"
+    },
+    {
+        "file_name": "beedrill-mega.png",
+        "response_time": 0.003518342971801758,
+        "pokemon": "Beedrill"
+    },
+    {
+        "file_name": "beedrill.png",
+        "response_time": 0.003528118133544922,
+        "pokemon": "Beedrill"
+    },
+    {
+        "file_name": "beheeyem.png",
+        "response_time": 0.0025207996368408203,
+        "pokemon": "Beheeyem"
+    },
+    {
+        "file_name": "beldum.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Beldum"
+    },
+    {
+        "file_name": "bellibolt.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Palpitoad"
+    },
+    {
+        "file_name": "bellossom.png",
+        "response_time": 0.002013683319091797,
+        "pokemon": "Gloom"
+    },
+    {
+        "file_name": "bellsprout.png",
+        "response_time": 0.0025942325592041016,
+        "pokemon": "Bellsprout"
+    },
+    {
+        "file_name": "bergmite.png",
+        "response_time": 0.003523111343383789,
+        "pokemon": "Bergmite"
+    },
+    {
+        "file_name": "bewear.png",
+        "response_time": 0.0020134449005126953,
+        "pokemon": "Bewear"
+    },
+    {
+        "file_name": "bibarel.png",
+        "response_time": 0.004033565521240234,
+        "pokemon": "Bibarel"
+    },
+    {
+        "file_name": "bidoof.png",
+        "response_time": 0.002508401870727539,
+        "pokemon": "Bidoof"
+    },
+    {
+        "file_name": "binacle.png",
+        "response_time": 0.0035314559936523438,
+        "pokemon": "Binacle"
+    },
+    {
+        "file_name": "bisharp.png",
+        "response_time": 0.0020089149475097656,
+        "pokemon": "Bisharp"
+    },
+    {
+        "file_name": "blacephalon.png",
+        "response_time": 0.0025229454040527344,
+        "pokemon": "Blacephalon"
+    },
+    {
+        "file_name": "blastoise-gmax.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Miltank"
+    },
+    {
+        "file_name": "blastoise-mega.png",
+        "response_time": 0.003509044647216797,
+        "pokemon": "Blastoise"
+    },
+    {
+        "file_name": "blastoise.png",
+        "response_time": 0.002518892288208008,
+        "pokemon": "Blastoise"
+    },
+    {
+        "file_name": "blaziken-mega.png",
+        "response_time": 0.0035278797149658203,
+        "pokemon": "Blaziken"
+    },
+    {
+        "file_name": "blaziken.png",
+        "response_time": 0.0029413700103759766,
+        "pokemon": "Blaziken"
+    },
+    {
+        "file_name": "blipbug.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Blipbug"
+    },
+    {
+        "file_name": "blissey.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Blissey"
+    },
+    {
+        "file_name": "blitzle.png",
+        "response_time": 0.003526449203491211,
+        "pokemon": "Blitzle"
+    },
+    {
+        "file_name": "boldore.png",
+        "response_time": 0.002011537551879883,
+        "pokemon": "Boldore"
+    },
+    {
+        "file_name": "boltund.png",
+        "response_time": 0.002529621124267578,
+        "pokemon": "Boltund"
+    },
+    {
+        "file_name": "bombirdier.png",
+        "response_time": 0.0025229454040527344,
+        "pokemon": "Swanna"
+    },
+    {
+        "file_name": "bonsly.png",
+        "response_time": 0.0020020008087158203,
+        "pokemon": "Bonsly"
+    },
+    {
+        "file_name": "bouffalant.png",
+        "response_time": 0.003528118133544922,
+        "pokemon": "Bouffalant"
+    },
+    {
+        "file_name": "bounsweet.png",
+        "response_time": 0.002515554428100586,
+        "pokemon": "Bounsweet"
+    },
+    {
+        "file_name": "braixen.png",
+        "response_time": 0.0030777454376220703,
+        "pokemon": "Braixen"
+    },
+    {
+        "file_name": "brambleghast.png",
+        "response_time": 0.002515077590942383,
+        "pokemon": "Phantump"
+    },
+    {
+        "file_name": "bramblin.png",
+        "response_time": 0.0030088424682617188,
+        "pokemon": "Pidgeot"
+    },
+    {
+        "file_name": "braviary.png",
+        "response_time": 0.0015048980712890625,
+        "pokemon": "Braviary"
+    },
+    {
+        "file_name": "breloom.png",
+        "response_time": 0.0025162696838378906,
+        "pokemon": "Breloom"
+    },
+    {
+        "file_name": "brionne.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Brionne"
+    },
+    {
+        "file_name": "bronzong.png",
+        "response_time": 0.0025055408477783203,
+        "pokemon": "Bronzong"
+    },
+    {
+        "file_name": "bronzor.png",
+        "response_time": 0.0035300254821777344,
+        "pokemon": "Bronzor"
+    },
+    {
+        "file_name": "brute-bonnet.png",
+        "response_time": 0.003013134002685547,
+        "pokemon": "Throh"
+    },
+    {
+        "file_name": "bruxish.png",
+        "response_time": 0.003018617630004883,
+        "pokemon": "Bruxish"
+    },
+    {
+        "file_name": "budew.png",
+        "response_time": 0.0015060901641845703,
+        "pokemon": "Budew"
+    },
+    {
+        "file_name": "buizel.png",
+        "response_time": 0.0030155181884765625,
+        "pokemon": "Buizel"
+    },
+    {
+        "file_name": "bulbasaur.png",
+        "response_time": 0.0025076866149902344,
+        "pokemon": "Bulbasaur"
+    },
+    {
+        "file_name": "buneary.png",
+        "response_time": 0.0035228729248046875,
+        "pokemon": "Buneary"
+    },
+    {
+        "file_name": "bunnelby.png",
+        "response_time": 0.0025196075439453125,
+        "pokemon": "Bunnelby"
+    },
+    {
+        "file_name": "burmy.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Burmy"
+    },
+    {
+        "file_name": "butterfree-gmax.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Garbodor"
+    },
+    {
+        "file_name": "butterfree.png",
+        "response_time": 0.0020112991333007812,
+        "pokemon": "Butterfree"
+    },
+    {
+        "file_name": "buzzwole.png",
+        "response_time": 0.0035140514373779297,
+        "pokemon": "Buzzwole"
+    },
+    {
+        "file_name": "cacnea.png",
+        "response_time": 0.0015053749084472656,
+        "pokemon": "Cacnea"
+    },
+    {
+        "file_name": "cacturne.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Cacturne"
+    },
+    {
+        "file_name": "calyrex-ice.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Loudred"
+    },
+    {
+        "file_name": "calyrex-shadow.png",
+        "response_time": 0.0025124549865722656,
+        "pokemon": "Tauros"
+    },
+    {
+        "file_name": "calyrex.png",
+        "response_time": 0.00251007080078125,
+        "pokemon": "Calyrex"
+    },
+    {
+        "file_name": "camerupt-mega.png",
+        "response_time": 0.0015065670013427734,
+        "pokemon": "Camerupt"
+    },
+    {
+        "file_name": "camerupt.png",
+        "response_time": 0.002000093460083008,
+        "pokemon": "Camerupt"
+    },
+    {
+        "file_name": "capsakid.png",
+        "response_time": 0.002511739730834961,
+        "pokemon": "Croagunk"
+    },
+    {
+        "file_name": "carbink.png",
+        "response_time": 0.0025141239166259766,
+        "pokemon": "Carbink"
+    },
+    {
+        "file_name": "carkol.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Carkol"
+    },
+    {
+        "file_name": "carnivine.png",
+        "response_time": 0.0030107498168945312,
+        "pokemon": "Carnivine"
+    },
+    {
+        "file_name": "carracosta.png",
+        "response_time": 0.0020151138305664062,
+        "pokemon": "Carracosta"
+    },
+    {
+        "file_name": "carvanha.png",
+        "response_time": 0.003022909164428711,
+        "pokemon": "Carvanha"
+    },
+    {
+        "file_name": "cascoon.png",
+        "response_time": 0.001499176025390625,
+        "pokemon": "Cascoon"
+    },
+    {
+        "file_name": "castform-rainy.png",
+        "response_time": 0.003513813018798828,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "castform-snowy.png",
+        "response_time": 0.0025053024291992188,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "castform-sunny.png",
+        "response_time": 0.003522157669067383,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "castform.png",
+        "response_time": 0.0019998550415039062,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "caterpie.png",
+        "response_time": 0.0020208358764648438,
+        "pokemon": "Caterpie"
+    },
+    {
+        "file_name": "celebi.png",
+        "response_time": 0.003018617630004883,
+        "pokemon": "Celebi"
+    },
+    {
+        "file_name": "celesteela.png",
+        "response_time": 0.0030045509338378906,
+        "pokemon": "Celesteela"
+    },
+    {
+        "file_name": "centiskorch-gmax.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Toxtricity"
+    },
+    {
+        "file_name": "centiskorch.png",
+        "response_time": 0.0009975433349609375,
+        "pokemon": "Centiskorch"
+    },
+    {
+        "file_name": "ceruledge.png",
+        "response_time": 0.0030155181884765625,
+        "pokemon": "Corviknight"
+    },
+    {
+        "file_name": "cetitan.png",
+        "response_time": 0.0020220279693603516,
+        "pokemon": "Wigglytuff"
+    },
+    {
+        "file_name": "cetoddle.png",
+        "response_time": 0.002516508102416992,
+        "pokemon": "Spritzee"
+    },
+    {
+        "file_name": "chandelure.png",
+        "response_time": 0.0035207271575927734,
+        "pokemon": "Chandelure"
+    },
+    {
+        "file_name": "chansey.png",
+        "response_time": 0.0020008087158203125,
+        "pokemon": "Chansey"
+    },
+    {
+        "file_name": "charcadet.png",
+        "response_time": 0.0030138492584228516,
+        "pokemon": "Mudsdale"
+    },
+    {
+        "file_name": "charizard-gmax.png",
+        "response_time": 0.002518892288208008,
+        "pokemon": "Morpeko"
+    },
+    {
+        "file_name": "charizard-mega-x.png",
+        "response_time": 0.003519773483276367,
+        "pokemon": "Charizard"
+    },
+    {
+        "file_name": "charizard-mega-y.png",
+        "response_time": 0.0025107860565185547,
+        "pokemon": "Charizard"
+    },
+    {
+        "file_name": "charizard.png",
+        "response_time": 0.00200653076171875,
+        "pokemon": "Charizard"
+    },
+    {
+        "file_name": "charjabug.png",
+        "response_time": 0.0030117034912109375,
+        "pokemon": "Charjabug"
+    },
+    {
+        "file_name": "charmander.png",
+        "response_time": 0.0025081634521484375,
+        "pokemon": "Charmander"
+    },
+    {
+        "file_name": "charmeleon.png",
+        "response_time": 0.0029973983764648438,
+        "pokemon": "Charmeleon"
+    },
+    {
+        "file_name": "chatot.png",
+        "response_time": 0.0020134449005126953,
+        "pokemon": "Chatot"
+    },
+    {
+        "file_name": "cherrim.png",
+        "response_time": 0.003032207489013672,
+        "pokemon": "Cherrim"
+    },
+    {
+        "file_name": "cherubi.png",
+        "response_time": 0.0025060176849365234,
+        "pokemon": "Cherubi"
+    },
+    {
+        "file_name": "chesnaught.png",
+        "response_time": 0.0030031204223632812,
+        "pokemon": "Chesnaught"
+    },
+    {
+        "file_name": "chespin.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Chespin"
+    },
+    {
+        "file_name": "chewtle.png",
+        "response_time": 0.002026081085205078,
+        "pokemon": "Chewtle"
+    },
+    {
+        "file_name": "chi-yu.png",
+        "response_time": 0.003013134002685547,
+        "pokemon": "Grubbin"
+    },
+    {
+        "file_name": "chien-pao.png",
+        "response_time": 0.0035157203674316406,
+        "pokemon": "Lugia"
+    },
+    {
+        "file_name": "chikorita.png",
+        "response_time": 0.0019989013671875,
+        "pokemon": "Chikorita"
+    },
+    {
+        "file_name": "chimchar.png",
+        "response_time": 0.0030205249786376953,
+        "pokemon": "Chimchar"
+    },
+    {
+        "file_name": "chimecho.png",
+        "response_time": 0.0035190582275390625,
+        "pokemon": "Chimecho"
+    },
+    {
+        "file_name": "chinchou.png",
+        "response_time": 0.0020041465759277344,
+        "pokemon": "Chinchou"
+    },
+    {
+        "file_name": "chingling.png",
+        "response_time": 0.003018617630004883,
+        "pokemon": "Chingling"
+    },
+    {
+        "file_name": "cinccino.png",
+        "response_time": 0.0025320053100585938,
+        "pokemon": "Cinccino"
+    },
+    {
+        "file_name": "cinderace-gmax.png",
+        "response_time": 0.003535032272338867,
+        "pokemon": "Toxtricity"
+    },
+    {
+        "file_name": "cinderace.png",
+        "response_time": 0.003521442413330078,
+        "pokemon": "Cinderace"
+    },
+    {
+        "file_name": "clamperl.png",
+        "response_time": 0.0025031566619873047,
+        "pokemon": "Clamperl"
+    },
+    {
+        "file_name": "clauncher.png",
+        "response_time": 0.002998828887939453,
+        "pokemon": "Clauncher"
+    },
+    {
+        "file_name": "clawitzer.png",
+        "response_time": 0.003543376922607422,
+        "pokemon": "Clawitzer"
+    },
+    {
+        "file_name": "claydol.png",
+        "response_time": 0.0025260448455810547,
+        "pokemon": "Claydol"
+    },
+    {
+        "file_name": "clefable.png",
+        "response_time": 0.002522706985473633,
+        "pokemon": "Clefable"
+    },
+    {
+        "file_name": "clefairy.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Clefairy"
+    },
+    {
+        "file_name": "cleffa.png",
+        "response_time": 0.0030117034912109375,
+        "pokemon": "Cleffa"
+    },
+    {
+        "file_name": "clobbopus.png",
+        "response_time": 0.0030164718627929688,
+        "pokemon": "Clobbopus"
+    },
+    {
+        "file_name": "clodsire.png",
+        "response_time": 0.0035326480865478516,
+        "pokemon": "Wailmer"
+    },
+    {
+        "file_name": "cloyster.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Cloyster"
+    },
+    {
+        "file_name": "coalossal-gmax.png",
+        "response_time": 0.003528594970703125,
+        "pokemon": "Copperajah"
+    },
+    {
+        "file_name": "coalossal.png",
+        "response_time": 0.002509593963623047,
+        "pokemon": "Coalossal"
+    },
+    {
+        "file_name": "cobalion.png",
+        "response_time": 0.0030040740966796875,
+        "pokemon": "Cobalion"
+    },
+    {
+        "file_name": "cofagrigus.png",
+        "response_time": 0.003016233444213867,
+        "pokemon": "Cofagrigus"
+    },
+    {
+        "file_name": "combee.png",
+        "response_time": 0.003566265106201172,
+        "pokemon": "Combee"
+    },
+    {
+        "file_name": "combusken.png",
+        "response_time": 0.002995014190673828,
+        "pokemon": "Combusken"
+    },
+    {
+        "file_name": "comfey.png",
+        "response_time": 0.002996206283569336,
+        "pokemon": "Comfey"
+    },
+    {
+        "file_name": "conkeldurr.png",
+        "response_time": 0.0020072460174560547,
+        "pokemon": "Conkeldurr"
+    },
+    {
+        "file_name": "copperajah-gmax.png",
+        "response_time": 0.0025582313537597656,
+        "pokemon": "Electrode"
+    },
+    {
+        "file_name": "copperajah.png",
+        "response_time": 0.002042531967163086,
+        "pokemon": "Copperajah"
+    },
+    {
+        "file_name": "corphish.png",
+        "response_time": 0.002505064010620117,
+        "pokemon": "Corphish"
+    },
+    {
+        "file_name": "corsola-galar.png",
+        "response_time": 0.0025076866149902344,
+        "pokemon": "Darumaka"
+    },
+    {
+        "file_name": "corsola.png",
+        "response_time": 0.001998424530029297,
+        "pokemon": "Corsola"
+    },
+    {
+        "file_name": "corviknight-gmax.png",
+        "response_time": 0.003004312515258789,
+        "pokemon": "Salazzle"
+    },
+    {
+        "file_name": "corviknight.png",
+        "response_time": 0.0030205249786376953,
+        "pokemon": "Corviknight"
+    },
+    {
+        "file_name": "corvisquire.png",
+        "response_time": 0.0024869441986083984,
+        "pokemon": "Corvisquire"
+    },
+    {
+        "file_name": "cosmoem.png",
+        "response_time": 0.0035240650177001953,
+        "pokemon": "Cosmoem"
+    },
+    {
+        "file_name": "cosmog.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Cosmog"
+    },
+    {
+        "file_name": "cottonee.png",
+        "response_time": 0.0019979476928710938,
+        "pokemon": "Cottonee"
+    },
+    {
+        "file_name": "crabominable.png",
+        "response_time": 0.0030303001403808594,
+        "pokemon": "Crabominable"
+    },
+    {
+        "file_name": "crabrawler.png",
+        "response_time": 0.0030231475830078125,
+        "pokemon": "Crabrawler"
+    },
+    {
+        "file_name": "cradily.png",
+        "response_time": 0.0029954910278320312,
+        "pokemon": "Cradily"
+    },
+    {
+        "file_name": "cramorant-gorging.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Urshifu"
+    },
+    {
+        "file_name": "cramorant.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Cramorant"
+    },
+    {
+        "file_name": "cranidos.png",
+        "response_time": 0.0035469532012939453,
+        "pokemon": "Cranidos"
+    },
+    {
+        "file_name": "crawdaunt.png",
+        "response_time": 0.003056764602661133,
+        "pokemon": "Crawdaunt"
+    },
+    {
+        "file_name": "cresselia.png",
+        "response_time": 0.0030007362365722656,
+        "pokemon": "Cresselia"
+    },
+    {
+        "file_name": "croagunk.png",
+        "response_time": 0.0029985904693603516,
+        "pokemon": "Croagunk"
+    },
+    {
+        "file_name": "crobat.png",
+        "response_time": 0.0035448074340820312,
+        "pokemon": "Crobat"
+    },
+    {
+        "file_name": "crocalor.png",
+        "response_time": 0.0030617713928222656,
+        "pokemon": "Yungoos"
+    },
+    {
+        "file_name": "croconaw.png",
+        "response_time": 0.0030002593994140625,
+        "pokemon": "Croconaw"
+    },
+    {
+        "file_name": "crustle.png",
+        "response_time": 0.0030040740966796875,
+        "pokemon": "Crustle"
+    },
+    {
+        "file_name": "cryogonal.png",
+        "response_time": 0.002007007598876953,
+        "pokemon": "Cryogonal"
+    },
+    {
+        "file_name": "cubchoo.png",
+        "response_time": 0.003025054931640625,
+        "pokemon": "Cubchoo"
+    },
+    {
+        "file_name": "cubone.png",
+        "response_time": 0.002512216567993164,
+        "pokemon": "Cubone"
+    },
+    {
+        "file_name": "cufant.png",
+        "response_time": 0.003003358840942383,
+        "pokemon": "Cufant"
+    },
+    {
+        "file_name": "cursola.png",
+        "response_time": 0.0029959678649902344,
+        "pokemon": "Cursola"
+    },
+    {
+        "file_name": "cutiefly.png",
+        "response_time": 0.0019521713256835938,
+        "pokemon": "Cutiefly"
+    },
+    {
+        "file_name": "cyclizar.png",
+        "response_time": 0.002527952194213867,
+        "pokemon": "Zarude"
+    },
+    {
+        "file_name": "cyndaquil.png",
+        "response_time": 0.0035080909729003906,
+        "pokemon": "Cyndaquil"
+    },
+    {
+        "file_name": "dachsbun.png",
+        "response_time": 0.0030057430267333984,
+        "pokemon": "Growlithe"
+    },
+    {
+        "file_name": "darkrai.png",
+        "response_time": 0.002000570297241211,
+        "pokemon": "Darkrai"
+    },
+    {
+        "file_name": "darmanitan-galar-standard.png",
+        "response_time": 0.002998828887939453,
+        "pokemon": "Basculin"
+    },
+    {
+        "file_name": "darmanitan-standard.png",
+        "response_time": 0.0025179386138916016,
+        "pokemon": "Darmanitan"
+    },
+    {
+        "file_name": "darmanitan-zen.png",
+        "response_time": 0.003522634506225586,
+        "pokemon": "Darmanitan"
+    },
+    {
+        "file_name": "dartrix.png",
+        "response_time": 0.0025131702423095703,
+        "pokemon": "Dartrix"
+    },
+    {
+        "file_name": "darumaka-galar.png",
+        "response_time": 0.002000570297241211,
+        "pokemon": "Yamask"
+    },
+    {
+        "file_name": "darumaka.png",
+        "response_time": 0.002999544143676758,
+        "pokemon": "Darumaka"
+    },
+    {
+        "file_name": "decidueye.png",
+        "response_time": 0.0029604434967041016,
+        "pokemon": "Decidueye"
+    },
+    {
+        "file_name": "dedenne.png",
+        "response_time": 0.003017902374267578,
+        "pokemon": "Dedenne"
+    },
+    {
+        "file_name": "deerling.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Deerling"
+    },
+    {
+        "file_name": "deino.png",
+        "response_time": 0.0019965171813964844,
+        "pokemon": "Deino"
+    },
+    {
+        "file_name": "delcatty.png",
+        "response_time": 0.003520965576171875,
+        "pokemon": "Delcatty"
+    },
+    {
+        "file_name": "delibird.png",
+        "response_time": 0.004082202911376953,
+        "pokemon": "Delibird"
+    },
+    {
+        "file_name": "delphox.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Delphox"
+    },
+    {
+        "file_name": "deoxys-attack.png",
+        "response_time": 0.0020029544830322266,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "deoxys-defense.png",
+        "response_time": 0.0030128955841064453,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "deoxys-normal.png",
+        "response_time": 0.0024292469024658203,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "deoxys-speed.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "dewgong.png",
+        "response_time": 0.001996755599975586,
+        "pokemon": "Dewgong"
+    },
+    {
+        "file_name": "dewott.png",
+        "response_time": 0.0020003318786621094,
+        "pokemon": "Dewott"
+    },
+    {
+        "file_name": "dewpider.png",
+        "response_time": 0.003539562225341797,
+        "pokemon": "Dewpider"
+    },
+    {
+        "file_name": "dhelmise.png",
+        "response_time": 0.0025222301483154297,
+        "pokemon": "Dhelmise"
+    },
+    {
+        "file_name": "dialga.png",
+        "response_time": 0.004517555236816406,
+        "pokemon": "Dialga"
+    },
+    {
+        "file_name": "diancie-mega.png",
+        "response_time": 0.002002716064453125,
+        "pokemon": "Diancie"
+    },
+    {
+        "file_name": "diancie.png",
+        "response_time": 0.0029931068420410156,
+        "pokemon": "Diancie"
+    },
+    {
+        "file_name": "diggersby.png",
+        "response_time": 0.004011631011962891,
+        "pokemon": "Diggersby"
+    },
+    {
+        "file_name": "diglett-alola.png",
+        "response_time": 0.002997875213623047,
+        "pokemon": "Diglett"
+    },
+    {
+        "file_name": "diglett.png",
+        "response_time": 0.0035164356231689453,
+        "pokemon": "Diglett"
+    },
+    {
+        "file_name": "ditto.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Ditto"
+    },
+    {
+        "file_name": "dodrio.png",
+        "response_time": 0.002506732940673828,
+        "pokemon": "Dodrio"
+    },
+    {
+        "file_name": "doduo.png",
+        "response_time": 0.0029997825622558594,
+        "pokemon": "Doduo"
+    },
+    {
+        "file_name": "dolliv.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Petilil"
+    },
+    {
+        "file_name": "dondozo.png",
+        "response_time": 0.0035233497619628906,
+        "pokemon": "Wailord"
+    },
+    {
+        "file_name": "donphan.png",
+        "response_time": 0.0030364990234375,
+        "pokemon": "Donphan"
+    },
+    {
+        "file_name": "dottler.png",
+        "response_time": 0.003532886505126953,
+        "pokemon": "Dottler"
+    },
+    {
+        "file_name": "doublade.png",
+        "response_time": 0.002995014190673828,
+        "pokemon": "Doublade"
+    },
+    {
+        "file_name": "dracovish.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Dracovish"
+    },
+    {
+        "file_name": "dracozolt.png",
+        "response_time": 0.002999544143676758,
+        "pokemon": "Dracozolt"
+    },
+    {
+        "file_name": "dragalge.png",
+        "response_time": 0.003522157669067383,
+        "pokemon": "Dragalge"
+    },
+    {
+        "file_name": "dragapult.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Dragapult"
+    },
+    {
+        "file_name": "dragonair.png",
+        "response_time": 0.0035140514373779297,
+        "pokemon": "Dragonair"
+    },
+    {
+        "file_name": "dragonite.png",
+        "response_time": 0.0035521984100341797,
+        "pokemon": "Dragonite"
+    },
+    {
+        "file_name": "drakloak.png",
+        "response_time": 0.0035390853881835938,
+        "pokemon": "Drakloak"
+    },
+    {
+        "file_name": "drampa.png",
+        "response_time": 0.0040476322174072266,
+        "pokemon": "Drampa"
+    },
+    {
+        "file_name": "drapion.png",
+        "response_time": 0.003040790557861328,
+        "pokemon": "Drapion"
+    },
+    {
+        "file_name": "dratini.png",
+        "response_time": 0.003548860549926758,
+        "pokemon": "Dratini"
+    },
+    {
+        "file_name": "drednaw-gmax.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Alcremie"
+    },
+    {
+        "file_name": "drednaw.png",
+        "response_time": 0.0035219192504882812,
+        "pokemon": "Drednaw"
+    },
+    {
+        "file_name": "dreepy.png",
+        "response_time": 0.003004789352416992,
+        "pokemon": "Dreepy"
+    },
+    {
+        "file_name": "drifblim.png",
+        "response_time": 0.0035219192504882812,
+        "pokemon": "Drifblim"
+    },
+    {
+        "file_name": "drifloon.png",
+        "response_time": 0.002513885498046875,
+        "pokemon": "Drifloon"
+    },
+    {
+        "file_name": "drilbur.png",
+        "response_time": 0.0025081634521484375,
+        "pokemon": "Drilbur"
+    },
+    {
+        "file_name": "drizzile.png",
+        "response_time": 0.003516674041748047,
+        "pokemon": "Drizzile"
+    },
+    {
+        "file_name": "drowzee.png",
+        "response_time": 0.0029973983764648438,
+        "pokemon": "Drowzee"
+    },
+    {
+        "file_name": "druddigon.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Druddigon"
+    },
+    {
+        "file_name": "dubwool.png",
+        "response_time": 0.003032207489013672,
+        "pokemon": "Dubwool"
+    },
+    {
+        "file_name": "ducklett.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Ducklett"
+    },
+    {
+        "file_name": "dudunsparce.png",
+        "response_time": 0.0035085678100585938,
+        "pokemon": "Dunsparce"
+    },
+    {
+        "file_name": "dugtrio-alola.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Dugtrio"
+    },
+    {
+        "file_name": "dugtrio.png",
+        "response_time": 0.001996278762817383,
+        "pokemon": "Dugtrio"
+    },
+    {
+        "file_name": "dunsparce.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Dunsparce"
+    },
+    {
+        "file_name": "duosion.png",
+        "response_time": 0.003533601760864258,
+        "pokemon": "Duosion"
+    },
+    {
+        "file_name": "duraludon-gmax.png",
+        "response_time": 0.0030164718627929688,
+        "pokemon": "Typhlosion"
+    },
+    {
+        "file_name": "duraludon.png",
+        "response_time": 0.0025527477264404297,
+        "pokemon": "Duraludon"
+    },
+    {
+        "file_name": "durant.png",
+        "response_time": 0.0035169124603271484,
+        "pokemon": "Durant"
+    },
+    {
+        "file_name": "dusclops.png",
+        "response_time": 0.004010915756225586,
+        "pokemon": "Dusclops"
+    },
+    {
+        "file_name": "dusknoir.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Dusknoir"
+    },
+    {
+        "file_name": "duskull.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Duskull"
+    },
+    {
+        "file_name": "dustox.png",
+        "response_time": 0.0025234222412109375,
+        "pokemon": "Dustox"
+    },
+    {
+        "file_name": "dwebble.png",
+        "response_time": 0.003527402877807617,
+        "pokemon": "Dwebble"
+    },
+    {
+        "file_name": "eelektrik.png",
+        "response_time": 0.002005338668823242,
+        "pokemon": "Eelektrik"
+    },
+    {
+        "file_name": "eelektross.png",
+        "response_time": 0.0025277137756347656,
+        "pokemon": "Eelektross"
+    },
+    {
+        "file_name": "eevee-gmax.png",
+        "response_time": 0.002021312713623047,
+        "pokemon": "Drednaw"
+    },
+    {
+        "file_name": "eevee-starter.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Ponyta"
+    },
+    {
+        "file_name": "eevee.png",
+        "response_time": 0.0025069713592529297,
+        "pokemon": "Eevee"
+    },
+    {
+        "file_name": "eiscue-ice.png",
+        "response_time": 0.003526926040649414,
+        "pokemon": "Eiscue"
+    },
+    {
+        "file_name": "ekans.png",
+        "response_time": 0.002526521682739258,
+        "pokemon": "Ekans"
+    },
+    {
+        "file_name": "eldegoss.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Eldegoss"
+    },
+    {
+        "file_name": "electabuzz.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Electabuzz"
+    },
+    {
+        "file_name": "electivire.png",
+        "response_time": 0.003021240234375,
+        "pokemon": "Electivire"
+    },
+    {
+        "file_name": "electrike.png",
+        "response_time": 0.002011537551879883,
+        "pokemon": "Electrike"
+    },
+    {
+        "file_name": "electrode-hisui.png",
+        "response_time": 0.0029058456420898438,
+        "pokemon": "Braviary"
+    },
+    {
+        "file_name": "electrode.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Electrode"
+    },
+    {
+        "file_name": "elekid.png",
+        "response_time": 0.0025391578674316406,
+        "pokemon": "Elekid"
+    },
+    {
+        "file_name": "elgyem.png",
+        "response_time": 0.0015146732330322266,
+        "pokemon": "Elgyem"
+    },
+    {
+        "file_name": "emboar.png",
+        "response_time": 0.004533052444458008,
+        "pokemon": "Emboar"
+    },
+    {
+        "file_name": "emolga.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Emolga"
+    },
+    {
+        "file_name": "empoleon.png",
+        "response_time": 0.004014253616333008,
+        "pokemon": "Empoleon"
+    },
+    {
+        "file_name": "enamorus-incarnate.png",
+        "response_time": 0.004533052444458008,
+        "pokemon": "Altaria"
+    },
+    {
+        "file_name": "entei.png",
+        "response_time": 0.004544258117675781,
+        "pokemon": "Entei"
+    },
+    {
+        "file_name": "escavalier.png",
+        "response_time": 0.006047725677490234,
+        "pokemon": "Escavalier"
+    },
+    {
+        "file_name": "espathra.png",
+        "response_time": 0.0025229454040527344,
+        "pokemon": "Barbaracle"
+    },
+    {
+        "file_name": "espeon.png",
+        "response_time": 0.0030252933502197266,
+        "pokemon": "Espeon"
+    },
+    {
+        "file_name": "espurr.png",
+        "response_time": 0.003513813018798828,
+        "pokemon": "Espurr"
+    },
+    {
+        "file_name": "eternatus-eternamax.png",
+        "response_time": 0.0020003318786621094,
+        "pokemon": "Sentret"
+    },
+    {
+        "file_name": "eternatus.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Eternatus"
+    },
+    {
+        "file_name": "excadrill.png",
+        "response_time": 0.002523183822631836,
+        "pokemon": "Excadrill"
+    },
+    {
+        "file_name": "exeggcute.png",
+        "response_time": 0.002523183822631836,
+        "pokemon": "Exeggcute"
+    },
+    {
+        "file_name": "exeggutor-alola.png",
+        "response_time": 0.0025224685668945312,
+        "pokemon": "Exeggutor"
+    },
+    {
+        "file_name": "exeggutor.png",
+        "response_time": 0.0030117034912109375,
+        "pokemon": "Exeggutor"
+    },
+    {
+        "file_name": "exploud.png",
+        "response_time": 0.0025289058685302734,
+        "pokemon": "Exploud"
+    },
+    {
+        "file_name": "falinks.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Cufant"
+    },
+    {
+        "file_name": "farfetchd-galar.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Mienshao"
+    },
+    {
+        "file_name": "farfetchd.png",
+        "response_time": 0.003473520278930664,
+        "pokemon": "Farfetch'd"
+    },
+    {
+        "file_name": "farigiraf.png",
+        "response_time": 0.002020120620727539,
+        "pokemon": "Sawsbuck"
+    },
+    {
+        "file_name": "fearow.png",
+        "response_time": 0.0025653839111328125,
+        "pokemon": "Fearow"
+    },
+    {
+        "file_name": "feebas.png",
+        "response_time": 0.0030226707458496094,
+        "pokemon": "Feebas"
+    },
+    {
+        "file_name": "fennekin.png",
+        "response_time": 0.0025250911712646484,
+        "pokemon": "Fennekin"
+    },
+    {
+        "file_name": "feraligatr.png",
+        "response_time": 0.0025157928466796875,
+        "pokemon": "Feraligatr"
+    },
+    {
+        "file_name": "ferroseed.png",
+        "response_time": 0.003025531768798828,
+        "pokemon": "Ferroseed"
+    },
+    {
+        "file_name": "ferrothorn.png",
+        "response_time": 0.001996755599975586,
+        "pokemon": "Ferrothorn"
+    },
+    {
+        "file_name": "fidough.png",
+        "response_time": 0.0020132064819335938,
+        "pokemon": "Jangmo-o"
+    },
+    {
+        "file_name": "finizen.png",
+        "response_time": 0.0025300979614257812,
+        "pokemon": "Remoraid"
+    },
+    {
+        "file_name": "finneon.png",
+        "response_time": 0.0030188560485839844,
+        "pokemon": "Finneon"
+    },
+    {
+        "file_name": "flaaffy.png",
+        "response_time": 0.0030248165130615234,
+        "pokemon": "Flaaffy"
+    },
+    {
+        "file_name": "flabebe.png",
+        "response_time": 0.0019953250885009766,
+        "pokemon": "Flab\u00e9b\u00e9"
+    },
+    {
+        "file_name": "flamigo.png",
+        "response_time": 0.003010272979736328,
+        "pokemon": "Ekans"
+    },
+    {
+        "file_name": "flapple-gmax.png",
+        "response_time": 0.003020763397216797,
+        "pokemon": "Duraludon"
+    },
+    {
+        "file_name": "flapple.png",
+        "response_time": 0.0030167102813720703,
+        "pokemon": "Flapple"
+    },
+    {
+        "file_name": "flareon.png",
+        "response_time": 0.004033088684082031,
+        "pokemon": "Flareon"
+    },
+    {
+        "file_name": "fletchinder.png",
+        "response_time": 0.003522157669067383,
+        "pokemon": "Fletchinder"
+    },
+    {
+        "file_name": "fletchling.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Fletchling"
+    },
+    {
+        "file_name": "flittle.png",
+        "response_time": 0.003025531768798828,
+        "pokemon": "Dunsparce"
+    },
+    {
+        "file_name": "floatzel.png",
+        "response_time": 0.0025479793548583984,
+        "pokemon": "Floatzel"
+    },
+    {
+        "file_name": "floette.png",
+        "response_time": 0.0025146007537841797,
+        "pokemon": "Floette"
+    },
+    {
+        "file_name": "floragato.png",
+        "response_time": 0.0025033950805664062,
+        "pokemon": "Sceptile"
+    },
+    {
+        "file_name": "florges.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Florges"
+    },
+    {
+        "file_name": "flutter-mane.png",
+        "response_time": 0.0020046234130859375,
+        "pokemon": "Misdreavus"
+    },
+    {
+        "file_name": "flygon.png",
+        "response_time": 0.0035467147827148438,
+        "pokemon": "Flygon"
+    },
+    {
+        "file_name": "fomantis.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Fomantis"
+    },
+    {
+        "file_name": "foongus.png",
+        "response_time": 0.002000570297241211,
+        "pokemon": "Foongus"
+    },
+    {
+        "file_name": "forretress.png",
+        "response_time": 0.0030193328857421875,
+        "pokemon": "Forretress"
+    },
+    {
+        "file_name": "fraxure.png",
+        "response_time": 0.002510547637939453,
+        "pokemon": "Fraxure"
+    },
+    {
+        "file_name": "frigibax.png",
+        "response_time": 0.0025022029876708984,
+        "pokemon": "Clawitzer"
+    },
+    {
+        "file_name": "frillish.png",
+        "response_time": 0.002007722854614258,
+        "pokemon": "Frillish"
+    },
+    {
+        "file_name": "froakie.png",
+        "response_time": 0.0025377273559570312,
+        "pokemon": "Froakie"
+    },
+    {
+        "file_name": "frogadier.png",
+        "response_time": 0.003507375717163086,
+        "pokemon": "Frogadier"
+    },
+    {
+        "file_name": "froslass.png",
+        "response_time": 0.0030040740966796875,
+        "pokemon": "Froslass"
+    },
+    {
+        "file_name": "frosmoth.png",
+        "response_time": 0.002009868621826172,
+        "pokemon": "Frosmoth"
+    },
+    {
+        "file_name": "fuecoco.png",
+        "response_time": 0.0020215511322021484,
+        "pokemon": "Jangmo-o"
+    },
+    {
+        "file_name": "furfrou.png",
+        "response_time": 0.0020742416381835938,
+        "pokemon": "Furfrou"
+    },
+    {
+        "file_name": "furret.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Furret"
+    },
+    {
+        "file_name": "gabite.png",
+        "response_time": 0.0020105838775634766,
+        "pokemon": "Gabite"
+    },
+    {
+        "file_name": "gallade-mega.png",
+        "response_time": 0.003044605255126953,
+        "pokemon": "Gallade"
+    },
+    {
+        "file_name": "gallade.png",
+        "response_time": 0.003524303436279297,
+        "pokemon": "Gallade"
+    },
+    {
+        "file_name": "galvantula.png",
+        "response_time": 0.0019996166229248047,
+        "pokemon": "Galvantula"
+    },
+    {
+        "file_name": "garbodor-gmax.png",
+        "response_time": 0.0030219554901123047,
+        "pokemon": "Flapple"
+    },
+    {
+        "file_name": "garbodor.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Garbodor"
+    },
+    {
+        "file_name": "garchomp-mega.png",
+        "response_time": 0.0025146007537841797,
+        "pokemon": "Garchomp"
+    },
+    {
+        "file_name": "garchomp.png",
+        "response_time": 0.0019981861114501953,
+        "pokemon": "Garchomp"
+    },
+    {
+        "file_name": "gardevoir-mega.png",
+        "response_time": 0.0020046234130859375,
+        "pokemon": "Gardevoir"
+    },
+    {
+        "file_name": "gardevoir.png",
+        "response_time": 0.0035278797149658203,
+        "pokemon": "Gardevoir"
+    },
+    {
+        "file_name": "garganacl.png",
+        "response_time": 0.0025115013122558594,
+        "pokemon": "Stakataka"
+    },
+    {
+        "file_name": "gastly.png",
+        "response_time": 0.0019998550415039062,
+        "pokemon": "Gastly"
+    },
+    {
+        "file_name": "gastrodon.png",
+        "response_time": 0.002008676528930664,
+        "pokemon": "Gastrodon"
+    },
+    {
+        "file_name": "genesect.png",
+        "response_time": 0.003536701202392578,
+        "pokemon": "Genesect"
+    },
+    {
+        "file_name": "gengar-gmax.png",
+        "response_time": 0.002512693405151367,
+        "pokemon": "Amaura"
+    },
+    {
+        "file_name": "gengar-mega.png",
+        "response_time": 0.0030040740966796875,
+        "pokemon": "Gengar"
+    },
+    {
+        "file_name": "gengar.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Gengar"
+    },
+    {
+        "file_name": "geodude-alola.png",
+        "response_time": 0.004008769989013672,
+        "pokemon": "Geodude"
+    },
+    {
+        "file_name": "geodude.png",
+        "response_time": 0.003528118133544922,
+        "pokemon": "Geodude"
+    },
+    {
+        "file_name": "gholdengo.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Goodra"
+    },
+    {
+        "file_name": "gible.png",
+        "response_time": 0.003528118133544922,
+        "pokemon": "Gible"
+    },
+    {
+        "file_name": "gigalith.png",
+        "response_time": 0.0035169124603271484,
+        "pokemon": "Gigalith"
+    },
+    {
+        "file_name": "gimmighoul.png",
+        "response_time": 0.0020034313201904297,
+        "pokemon": "Claydol"
+    },
+    {
+        "file_name": "girafarig.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Girafarig"
+    },
+    {
+        "file_name": "giratina-altered.png",
+        "response_time": 0.0025131702423095703,
+        "pokemon": "Giratina"
+    },
+    {
+        "file_name": "giratina-origin.png",
+        "response_time": 0.0035247802734375,
+        "pokemon": "Giratina"
+    },
+    {
+        "file_name": "glaceon.png",
+        "response_time": 0.002505779266357422,
+        "pokemon": "Glaceon"
+    },
+    {
+        "file_name": "glalie-mega.png",
+        "response_time": 0.0030031204223632812,
+        "pokemon": "Glalie"
+    },
+    {
+        "file_name": "glalie.png",
+        "response_time": 0.002014636993408203,
+        "pokemon": "Glalie"
+    },
+    {
+        "file_name": "glameow.png",
+        "response_time": 0.0035178661346435547,
+        "pokemon": "Glameow"
+    },
+    {
+        "file_name": "glastrier.png",
+        "response_time": 0.0019969940185546875,
+        "pokemon": "Glastrier"
+    },
+    {
+        "file_name": "gligar.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Gligar"
+    },
+    {
+        "file_name": "glimmet.png",
+        "response_time": 0.0025148391723632812,
+        "pokemon": "Pachirisu"
+    },
+    {
+        "file_name": "glimmora.png",
+        "response_time": 0.002039670944213867,
+        "pokemon": "Wailord"
+    },
+    {
+        "file_name": "gliscor.png",
+        "response_time": 0.0029997825622558594,
+        "pokemon": "Gliscor"
+    },
+    {
+        "file_name": "gloom.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Gloom"
+    },
+    {
+        "file_name": "gogoat.png",
+        "response_time": 0.0035293102264404297,
+        "pokemon": "Gogoat"
+    },
+    {
+        "file_name": "golbat.png",
+        "response_time": 0.003037691116333008,
+        "pokemon": "Golbat"
+    },
+    {
+        "file_name": "goldeen.png",
+        "response_time": 0.0020020008087158203,
+        "pokemon": "Goldeen"
+    },
+    {
+        "file_name": "golduck.png",
+        "response_time": 0.0030121803283691406,
+        "pokemon": "Golduck"
+    },
+    {
+        "file_name": "golem-alola.png",
+        "response_time": 0.0019948482513427734,
+        "pokemon": "Golem"
+    },
+    {
+        "file_name": "golem.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Golem"
+    },
+    {
+        "file_name": "golett.png",
+        "response_time": 0.0030438899993896484,
+        "pokemon": "Golett"
+    },
+    {
+        "file_name": "golisopod.png",
+        "response_time": 0.0025115013122558594,
+        "pokemon": "Golisopod"
+    },
+    {
+        "file_name": "golurk.png",
+        "response_time": 0.003000497817993164,
+        "pokemon": "Golurk"
+    },
+    {
+        "file_name": "goodra.png",
+        "response_time": 0.001993894577026367,
+        "pokemon": "Goodra"
+    },
+    {
+        "file_name": "goomy.png",
+        "response_time": 0.002524137496948242,
+        "pokemon": "Goomy"
+    },
+    {
+        "file_name": "gorebyss.png",
+        "response_time": 0.003030538558959961,
+        "pokemon": "Gorebyss"
+    },
+    {
+        "file_name": "gossifleur.png",
+        "response_time": 0.003000497817993164,
+        "pokemon": "Gossifleur"
+    },
+    {
+        "file_name": "gothita.png",
+        "response_time": 0.0020036697387695312,
+        "pokemon": "Gothita"
+    },
+    {
+        "file_name": "gothitelle.png",
+        "response_time": 0.0025179386138916016,
+        "pokemon": "Gothitelle"
+    },
+    {
+        "file_name": "gothorita.png",
+        "response_time": 0.0040323734283447266,
+        "pokemon": "Gothorita"
+    },
+    {
+        "file_name": "gourgeist-average.png",
+        "response_time": 0.0020008087158203125,
+        "pokemon": "Gourgeist"
+    },
+    {
+        "file_name": "gourgeist-large.png",
+        "response_time": 0.003003835678100586,
+        "pokemon": "Gourgeist"
+    },
+    {
+        "file_name": "gourgeist-small.png",
+        "response_time": 0.0030052661895751953,
+        "pokemon": "Gourgeist"
+    },
+    {
+        "file_name": "gourgeist-super.png",
+        "response_time": 0.00301361083984375,
+        "pokemon": "Gourgeist"
+    },
+    {
+        "file_name": "grafaiai.png",
+        "response_time": 0.0035407543182373047,
+        "pokemon": "Sableye"
+    },
+    {
+        "file_name": "granbull.png",
+        "response_time": 0.0025131702423095703,
+        "pokemon": "Granbull"
+    },
+    {
+        "file_name": "grapploct.png",
+        "response_time": 0.0035071372985839844,
+        "pokemon": "Grapploct"
+    },
+    {
+        "file_name": "graveler-alola.png",
+        "response_time": 0.003000974655151367,
+        "pokemon": "Graveler"
+    },
+    {
+        "file_name": "graveler.png",
+        "response_time": 0.0030050277709960938,
+        "pokemon": "Graveler"
+    },
+    {
+        "file_name": "great-tusk.png",
+        "response_time": 0.0030024051666259766,
+        "pokemon": "Anorith"
+    },
+    {
+        "file_name": "greavard.png",
+        "response_time": 0.003525257110595703,
+        "pokemon": "Swanna"
+    },
+    {
+        "file_name": "greedent.png",
+        "response_time": 0.0025243759155273438,
+        "pokemon": "Greedent"
+    },
+    {
+        "file_name": "greninja-ash.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Greninja"
+    },
+    {
+        "file_name": "greninja.png",
+        "response_time": 0.0030069351196289062,
+        "pokemon": "Greninja"
+    },
+    {
+        "file_name": "grimer-alola.png",
+        "response_time": 0.003007173538208008,
+        "pokemon": "Grimer"
+    },
+    {
+        "file_name": "grimer.png",
+        "response_time": 0.002001047134399414,
+        "pokemon": "Grimer"
+    },
+    {
+        "file_name": "grimmsnarl-gmax.png",
+        "response_time": 0.002009868621826172,
+        "pokemon": "Zorua"
+    },
+    {
+        "file_name": "grimmsnarl.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Grimmsnarl"
+    },
+    {
+        "file_name": "grookey.png",
+        "response_time": 0.0015034675598144531,
+        "pokemon": "Grookey"
+    },
+    {
+        "file_name": "grotle.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Grotle"
+    },
+    {
+        "file_name": "groudon-primal.png",
+        "response_time": 0.0030007362365722656,
+        "pokemon": "Groudon"
+    },
+    {
+        "file_name": "groudon.png",
+        "response_time": 0.003000497817993164,
+        "pokemon": "Groudon"
+    },
+    {
+        "file_name": "grovyle.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Grovyle"
+    },
+    {
+        "file_name": "growlithe-hisui.png",
+        "response_time": 0.0030775070190429688,
+        "pokemon": "Tsareena"
+    },
+    {
+        "file_name": "growlithe.png",
+        "response_time": 0.0029990673065185547,
+        "pokemon": "Growlithe"
+    },
+    {
+        "file_name": "grubbin.png",
+        "response_time": 0.0030045509338378906,
+        "pokemon": "Grubbin"
+    },
+    {
+        "file_name": "grumpig.png",
+        "response_time": 0.0035283565521240234,
+        "pokemon": "Grumpig"
+    },
+    {
+        "file_name": "gulpin.png",
+        "response_time": 0.0025048255920410156,
+        "pokemon": "Gulpin"
+    },
+    {
+        "file_name": "gumshoos.png",
+        "response_time": 0.003006458282470703,
+        "pokemon": "Gumshoos"
+    },
+    {
+        "file_name": "gurdurr.png",
+        "response_time": 0.00299835205078125,
+        "pokemon": "Gurdurr"
+    },
+    {
+        "file_name": "guzzlord.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Guzzlord"
+    },
+    {
+        "file_name": "gyarados-mega.png",
+        "response_time": 0.0020570755004882812,
+        "pokemon": "Gyarados"
+    },
+    {
+        "file_name": "gyarados.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Gyarados"
+    },
+    {
+        "file_name": "hakamo-o.png",
+        "response_time": 0.0030019283294677734,
+        "pokemon": "Hakamo-o"
+    },
+    {
+        "file_name": "happiny.png",
+        "response_time": 0.003530263900756836,
+        "pokemon": "Happiny"
+    },
+    {
+        "file_name": "hariyama.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Hariyama"
+    },
+    {
+        "file_name": "hatenna.png",
+        "response_time": 0.0025107860565185547,
+        "pokemon": "Hatenna"
+    },
+    {
+        "file_name": "hatterene-gmax.png",
+        "response_time": 0.0029935836791992188,
+        "pokemon": "Torkoal"
+    },
+    {
+        "file_name": "hatterene.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Hatterene"
+    },
+    {
+        "file_name": "hattrem.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Hattrem"
+    },
+    {
+        "file_name": "haunter.png",
+        "response_time": 0.0025305747985839844,
+        "pokemon": "Haunter"
+    },
+    {
+        "file_name": "hawlucha.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Hawlucha"
+    },
+    {
+        "file_name": "haxorus.png",
+        "response_time": 0.0035059452056884766,
+        "pokemon": "Haxorus"
+    },
+    {
+        "file_name": "heatmor.png",
+        "response_time": 0.003000020980834961,
+        "pokemon": "Heatmor"
+    },
+    {
+        "file_name": "heatran.png",
+        "response_time": 0.0035216808319091797,
+        "pokemon": "Heatran"
+    },
+    {
+        "file_name": "heliolisk.png",
+        "response_time": 0.003032684326171875,
+        "pokemon": "Heliolisk"
+    },
+    {
+        "file_name": "helioptile.png",
+        "response_time": 0.002996206283569336,
+        "pokemon": "Helioptile"
+    },
+    {
+        "file_name": "heracross-mega.png",
+        "response_time": 0.002004861831665039,
+        "pokemon": "Heracross"
+    },
+    {
+        "file_name": "heracross.png",
+        "response_time": 0.002007007598876953,
+        "pokemon": "Heracross"
+    },
+    {
+        "file_name": "herdier.png",
+        "response_time": 0.003033161163330078,
+        "pokemon": "Herdier"
+    },
+    {
+        "file_name": "hippopotas.png",
+        "response_time": 0.0025048255920410156,
+        "pokemon": "Hippopotas"
+    },
+    {
+        "file_name": "hippowdon.png",
+        "response_time": 0.002996206283569336,
+        "pokemon": "Hippowdon"
+    },
+    {
+        "file_name": "hitmonchan.png",
+        "response_time": 0.0025196075439453125,
+        "pokemon": "Hitmonchan"
+    },
+    {
+        "file_name": "hitmonlee.png",
+        "response_time": 0.00302886962890625,
+        "pokemon": "Hitmonlee"
+    },
+    {
+        "file_name": "hitmontop.png",
+        "response_time": 0.003007173538208008,
+        "pokemon": "Hitmontop"
+    },
+    {
+        "file_name": "ho-oh.png",
+        "response_time": 0.0030050277709960938,
+        "pokemon": "Ho-oh"
+    },
+    {
+        "file_name": "honchkrow.png",
+        "response_time": 0.0029478073120117188,
+        "pokemon": "Honchkrow"
+    },
+    {
+        "file_name": "honedge.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Honedge"
+    },
+    {
+        "file_name": "hoopa-unbound.png",
+        "response_time": 0.0030181407928466797,
+        "pokemon": "Hoopa"
+    },
+    {
+        "file_name": "hoopa.png",
+        "response_time": 0.002512693405151367,
+        "pokemon": "Hoopa"
+    },
+    {
+        "file_name": "hoothoot.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Hoothoot"
+    },
+    {
+        "file_name": "hoppip.png",
+        "response_time": 0.0020062923431396484,
+        "pokemon": "Hoppip"
+    },
+    {
+        "file_name": "horsea.png",
+        "response_time": 0.002513885498046875,
+        "pokemon": "Horsea"
+    },
+    {
+        "file_name": "houndoom-mega.png",
+        "response_time": 0.0025315284729003906,
+        "pokemon": "Houndoom"
+    },
+    {
+        "file_name": "houndoom.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Houndoom"
+    },
+    {
+        "file_name": "houndour.png",
+        "response_time": 0.0030112266540527344,
+        "pokemon": "Houndour"
+    },
+    {
+        "file_name": "houndstone.png",
+        "response_time": 0.0025298595428466797,
+        "pokemon": "Altaria"
+    },
+    {
+        "file_name": "huntail.png",
+        "response_time": 0.0030231475830078125,
+        "pokemon": "Huntail"
+    },
+    {
+        "file_name": "hydreigon.png",
+        "response_time": 0.003022909164428711,
+        "pokemon": "Hydreigon"
+    },
+    {
+        "file_name": "hypno.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Hypno"
+    },
+    {
+        "file_name": "igglybuff.png",
+        "response_time": 0.003011465072631836,
+        "pokemon": "Igglybuff"
+    },
+    {
+        "file_name": "illumise.png",
+        "response_time": 0.002010822296142578,
+        "pokemon": "Illumise"
+    },
+    {
+        "file_name": "impidimp.png",
+        "response_time": 0.002525806427001953,
+        "pokemon": "Impidimp"
+    },
+    {
+        "file_name": "incineroar.png",
+        "response_time": 0.0025119781494140625,
+        "pokemon": "Incineroar"
+    },
+    {
+        "file_name": "indeedee-female.png",
+        "response_time": 0.003504514694213867,
+        "pokemon": "Clawitzer"
+    },
+    {
+        "file_name": "indeedee-male.png",
+        "response_time": 0.003000974655151367,
+        "pokemon": "Indeedee"
+    },
+    {
+        "file_name": "infernape.png",
+        "response_time": 0.0035233497619628906,
+        "pokemon": "Infernape"
+    },
+    {
+        "file_name": "inkay.png",
+        "response_time": 0.002019643783569336,
+        "pokemon": "Inkay"
+    },
+    {
+        "file_name": "inteleon-gmax.png",
+        "response_time": 0.003526449203491211,
+        "pokemon": "Milotic"
+    },
+    {
+        "file_name": "inteleon.png",
+        "response_time": 0.003515958786010742,
+        "pokemon": "Inteleon"
+    },
+    {
+        "file_name": "iron-bundle.png",
+        "response_time": 0.0035300254821777344,
+        "pokemon": "Delibird"
+    },
+    {
+        "file_name": "iron-hands.png",
+        "response_time": 0.003005504608154297,
+        "pokemon": "Hariyama"
+    },
+    {
+        "file_name": "iron-jugulis.png",
+        "response_time": 0.0020003318786621094,
+        "pokemon": "Hydreigon"
+    },
+    {
+        "file_name": "iron-leaves.png",
+        "response_time": 0.002009153366088867,
+        "pokemon": "Virizion"
+    },
+    {
+        "file_name": "iron-moth.png",
+        "response_time": 0.0020101070404052734,
+        "pokemon": "Larvesta"
+    },
+    {
+        "file_name": "iron-thorns.png",
+        "response_time": 0.0035371780395507812,
+        "pokemon": "Zygarde"
+    },
+    {
+        "file_name": "iron-treads.png",
+        "response_time": 0.003028392791748047,
+        "pokemon": "Donphan"
+    },
+    {
+        "file_name": "iron-valiant.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Ralts"
+    },
+    {
+        "file_name": "ivysaur.png",
+        "response_time": 0.0025026798248291016,
+        "pokemon": "Ivysaur"
+    },
+    {
+        "file_name": "jangmo-o.png",
+        "response_time": 0.0025110244750976562,
+        "pokemon": "Jangmo-o"
+    },
+    {
+        "file_name": "jellicent.png",
+        "response_time": 0.0030112266540527344,
+        "pokemon": "Jellicent"
+    },
+    {
+        "file_name": "jigglypuff.png",
+        "response_time": 0.003520965576171875,
+        "pokemon": "Jigglypuff"
+    },
+    {
+        "file_name": "jirachi.png",
+        "response_time": 0.003521442413330078,
+        "pokemon": "Jirachi"
+    },
+    {
+        "file_name": "jolteon.png",
+        "response_time": 0.0030105113983154297,
+        "pokemon": "Jolteon"
+    },
+    {
+        "file_name": "joltik.png",
+        "response_time": 0.003536224365234375,
+        "pokemon": "Joltik"
+    },
+    {
+        "file_name": "jumpluff.png",
+        "response_time": 0.0019969940185546875,
+        "pokemon": "Jumpluff"
+    },
+    {
+        "file_name": "jynx.png",
+        "response_time": 0.002910614013671875,
+        "pokemon": "Jynx"
+    },
+    {
+        "file_name": "kabuto.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Kabuto"
+    },
+    {
+        "file_name": "kabutops.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Kabutops"
+    },
+    {
+        "file_name": "kadabra.png",
+        "response_time": 0.003536224365234375,
+        "pokemon": "Kadabra"
+    },
+    {
+        "file_name": "kakuna.png",
+        "response_time": 0.002505064010620117,
+        "pokemon": "Kakuna"
+    },
+    {
+        "file_name": "kangaskhan-mega.png",
+        "response_time": 0.0045397281646728516,
+        "pokemon": "Kangaskhan"
+    },
+    {
+        "file_name": "kangaskhan.png",
+        "response_time": 0.0025110244750976562,
+        "pokemon": "Kangaskhan"
+    },
+    {
+        "file_name": "karrablast.png",
+        "response_time": 0.0045320987701416016,
+        "pokemon": "Karrablast"
+    },
+    {
+        "file_name": "kartana.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Kartana"
+    },
+    {
+        "file_name": "kecleon.png",
+        "response_time": 0.00403594970703125,
+        "pokemon": "Kecleon"
+    },
+    {
+        "file_name": "keldeo-ordinary.png",
+        "response_time": 0.0025093555450439453,
+        "pokemon": "Keldeo"
+    },
+    {
+        "file_name": "keldeo-resolute.png",
+        "response_time": 0.004011631011962891,
+        "pokemon": "Keldeo"
+    },
+    {
+        "file_name": "kilowattrel.png",
+        "response_time": 0.0025174617767333984,
+        "pokemon": "Fletchinder"
+    },
+    {
+        "file_name": "kingambit.png",
+        "response_time": 0.0035250186920166016,
+        "pokemon": "Buzzwole"
+    },
+    {
+        "file_name": "kingdra.png",
+        "response_time": 0.003519296646118164,
+        "pokemon": "Kingdra"
+    },
+    {
+        "file_name": "kingler-gmax.png",
+        "response_time": 0.002530336380004883,
+        "pokemon": "Braviary"
+    },
+    {
+        "file_name": "kingler.png",
+        "response_time": 0.002508401870727539,
+        "pokemon": "Kingler"
+    },
+    {
+        "file_name": "kirlia.png",
+        "response_time": 0.003518819808959961,
+        "pokemon": "Kirlia"
+    },
+    {
+        "file_name": "klang.png",
+        "response_time": 0.002507448196411133,
+        "pokemon": "Klang"
+    },
+    {
+        "file_name": "klawf.png",
+        "response_time": 0.0020122528076171875,
+        "pokemon": "Crustle"
+    },
+    {
+        "file_name": "kleavor.png",
+        "response_time": 0.0025281906127929688,
+        "pokemon": "Lopunny"
+    },
+    {
+        "file_name": "klefki.png",
+        "response_time": 0.0025169849395751953,
+        "pokemon": "Klefki"
+    },
+    {
+        "file_name": "klink.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Klink"
+    },
+    {
+        "file_name": "klinklang.png",
+        "response_time": 0.003011465072631836,
+        "pokemon": "Klinklang"
+    },
+    {
+        "file_name": "koffing.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Koffing"
+    },
+    {
+        "file_name": "komala.png",
+        "response_time": 0.00251007080078125,
+        "pokemon": "Komala"
+    },
+    {
+        "file_name": "kommo-o.png",
+        "response_time": 0.0020172595977783203,
+        "pokemon": "Kommo-o"
+    },
+    {
+        "file_name": "koraidon.png",
+        "response_time": 0.0035219192504882812,
+        "pokemon": "Gyarados"
+    },
+    {
+        "file_name": "krabby.png",
+        "response_time": 0.0030260086059570312,
+        "pokemon": "Krabby"
+    },
+    {
+        "file_name": "kricketot.png",
+        "response_time": 0.003016948699951172,
+        "pokemon": "Kricketot"
+    },
+    {
+        "file_name": "kricketune.png",
+        "response_time": 0.003506898880004883,
+        "pokemon": "Kricketune"
+    },
+    {
+        "file_name": "krokorok.png",
+        "response_time": 0.003523111343383789,
+        "pokemon": "Krokorok"
+    },
+    {
+        "file_name": "krookodile.png",
+        "response_time": 0.0035181045532226562,
+        "pokemon": "Krookodile"
+    },
+    {
+        "file_name": "kubfu.png",
+        "response_time": 0.002526521682739258,
+        "pokemon": "Kubfu"
+    },
+    {
+        "file_name": "kyogre-primal.png",
+        "response_time": 0.0030350685119628906,
+        "pokemon": "Kyogre"
+    },
+    {
+        "file_name": "kyogre.png",
+        "response_time": 0.002506256103515625,
+        "pokemon": "Kyogre"
+    },
+    {
+        "file_name": "kyurem-black.png",
+        "response_time": 0.0029931068420410156,
+        "pokemon": "Kyurem"
+    },
+    {
+        "file_name": "kyurem-white.png",
+        "response_time": 0.0030150413513183594,
+        "pokemon": "Kyurem"
+    },
+    {
+        "file_name": "kyurem.png",
+        "response_time": 0.0035364627838134766,
+        "pokemon": "Kyurem"
+    },
+    {
+        "file_name": "lairon.png",
+        "response_time": 0.002522706985473633,
+        "pokemon": "Lairon"
+    },
+    {
+        "file_name": "lampent.png",
+        "response_time": 0.0040323734283447266,
+        "pokemon": "Lampent"
+    },
+    {
+        "file_name": "landorus-incarnate.png",
+        "response_time": 0.002515077590942383,
+        "pokemon": "Landorus"
+    },
+    {
+        "file_name": "landorus-therian.png",
+        "response_time": 0.0025069713592529297,
+        "pokemon": "Landorus"
+    },
+    {
+        "file_name": "lanturn.png",
+        "response_time": 0.002536773681640625,
+        "pokemon": "Lanturn"
+    },
+    {
+        "file_name": "lapras-gmax.png",
+        "response_time": 0.0030243396759033203,
+        "pokemon": "Orbeetle"
+    },
+    {
+        "file_name": "lapras.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Lapras"
+    },
+    {
+        "file_name": "larvesta.png",
+        "response_time": 0.0030307769775390625,
+        "pokemon": "Larvesta"
+    },
+    {
+        "file_name": "larvitar.png",
+        "response_time": 0.002001047134399414,
+        "pokemon": "Larvitar"
+    },
+    {
+        "file_name": "latias-mega.png",
+        "response_time": 0.004026889801025391,
+        "pokemon": "Latias"
+    },
+    {
+        "file_name": "latias.png",
+        "response_time": 0.0025246143341064453,
+        "pokemon": "Latias"
+    },
+    {
+        "file_name": "latios-mega.png",
+        "response_time": 0.0030972957611083984,
+        "pokemon": "Latios"
+    },
+    {
+        "file_name": "latios.png",
+        "response_time": 0.0015099048614501953,
+        "pokemon": "Latios"
+    },
+    {
+        "file_name": "leafeon.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Leafeon"
+    },
+    {
+        "file_name": "leavanny.png",
+        "response_time": 0.00202178955078125,
+        "pokemon": "Leavanny"
+    },
+    {
+        "file_name": "lechonk.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Ursaring"
+    },
+    {
+        "file_name": "ledian.png",
+        "response_time": 0.002524852752685547,
+        "pokemon": "Ledian"
+    },
+    {
+        "file_name": "ledyba.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Ledyba"
+    },
+    {
+        "file_name": "lickilicky.png",
+        "response_time": 0.0020072460174560547,
+        "pokemon": "Lickilicky"
+    },
+    {
+        "file_name": "lickitung.png",
+        "response_time": 0.0020139217376708984,
+        "pokemon": "Lickitung"
+    },
+    {
+        "file_name": "liepard.png",
+        "response_time": 0.0020182132720947266,
+        "pokemon": "Liepard"
+    },
+    {
+        "file_name": "lileep.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Lileep"
+    },
+    {
+        "file_name": "lilligant-hisui.png",
+        "response_time": 0.0025272369384765625,
+        "pokemon": "Palkia"
+    },
+    {
+        "file_name": "lilligant.png",
+        "response_time": 0.002997159957885742,
+        "pokemon": "Lilligant"
+    },
+    {
+        "file_name": "lillipup.png",
+        "response_time": 0.0030219554901123047,
+        "pokemon": "Lillipup"
+    },
+    {
+        "file_name": "linoone.png",
+        "response_time": 0.003030061721801758,
+        "pokemon": "Linoone"
+    },
+    {
+        "file_name": "litleo.png",
+        "response_time": 0.0025053024291992188,
+        "pokemon": "Litleo"
+    },
+    {
+        "file_name": "litten.png",
+        "response_time": 0.002995729446411133,
+        "pokemon": "Litten"
+    },
+    {
+        "file_name": "litwick.png",
+        "response_time": 0.003025054931640625,
+        "pokemon": "Litwick"
+    },
+    {
+        "file_name": "lokix.png",
+        "response_time": 0.0030274391174316406,
+        "pokemon": "Umbreon"
+    },
+    {
+        "file_name": "lombre.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Lombre"
+    },
+    {
+        "file_name": "lopunny-mega.png",
+        "response_time": 0.002001523971557617,
+        "pokemon": "Lopunny"
+    },
+    {
+        "file_name": "lopunny.png",
+        "response_time": 0.0030248165130615234,
+        "pokemon": "Lopunny"
+    },
+    {
+        "file_name": "lotad.png",
+        "response_time": 0.002529144287109375,
+        "pokemon": "Lotad"
+    },
+    {
+        "file_name": "loudred.png",
+        "response_time": 0.0025320053100585938,
+        "pokemon": "Loudred"
+    },
+    {
+        "file_name": "lucario-mega.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Lucario"
+    },
+    {
+        "file_name": "lucario.png",
+        "response_time": 0.00200653076171875,
+        "pokemon": "Lucario"
+    },
+    {
+        "file_name": "ludicolo.png",
+        "response_time": 0.0020127296447753906,
+        "pokemon": "Ludicolo"
+    },
+    {
+        "file_name": "lugia.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Lugia"
+    },
+    {
+        "file_name": "lumineon.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Lumineon"
+    },
+    {
+        "file_name": "lunala.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Lunala"
+    },
+    {
+        "file_name": "lunatone.png",
+        "response_time": 0.003010988235473633,
+        "pokemon": "Lunatone"
+    },
+    {
+        "file_name": "lurantis.png",
+        "response_time": 0.0020241737365722656,
+        "pokemon": "Lurantis"
+    },
+    {
+        "file_name": "luvdisc.png",
+        "response_time": 0.004031658172607422,
+        "pokemon": "Luvdisc"
+    },
+    {
+        "file_name": "luxio.png",
+        "response_time": 0.00251007080078125,
+        "pokemon": "Luxio"
+    },
+    {
+        "file_name": "luxray.png",
+        "response_time": 0.0029997825622558594,
+        "pokemon": "Luxray"
+    },
+    {
+        "file_name": "lycanroc-midday.png",
+        "response_time": 0.0030257701873779297,
+        "pokemon": "Lycanroc"
+    },
+    {
+        "file_name": "mabosstiff.png",
+        "response_time": 0.0025119781494140625,
+        "pokemon": "Bouffalant"
+    },
+    {
+        "file_name": "machamp-gmax.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Moltres"
+    },
+    {
+        "file_name": "machamp.png",
+        "response_time": 0.0035135746002197266,
+        "pokemon": "Machamp"
+    },
+    {
+        "file_name": "machoke.png",
+        "response_time": 0.002004861831665039,
+        "pokemon": "Machoke"
+    },
+    {
+        "file_name": "machop.png",
+        "response_time": 0.0020067691802978516,
+        "pokemon": "Machop"
+    },
+    {
+        "file_name": "magby.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Magby"
+    },
+    {
+        "file_name": "magcargo.png",
+        "response_time": 0.0015060901641845703,
+        "pokemon": "Magcargo"
+    },
+    {
+        "file_name": "magearna.png",
+        "response_time": 0.002000093460083008,
+        "pokemon": "Magearna"
+    },
+    {
+        "file_name": "magikarp.png",
+        "response_time": 0.002012968063354492,
+        "pokemon": "Magikarp"
+    },
+    {
+        "file_name": "magmar.png",
+        "response_time": 0.0040283203125,
+        "pokemon": "Magmar"
+    },
+    {
+        "file_name": "magmortar.png",
+        "response_time": 0.0025129318237304688,
+        "pokemon": "Magmortar"
+    },
+    {
+        "file_name": "magnemite.png",
+        "response_time": 0.003007650375366211,
+        "pokemon": "Magnemite"
+    },
+    {
+        "file_name": "magneton.png",
+        "response_time": 0.003522634506225586,
+        "pokemon": "Magneton"
+    },
+    {
+        "file_name": "magnezone.png",
+        "response_time": 0.0025141239166259766,
+        "pokemon": "Magnezone"
+    },
+    {
+        "file_name": "makuhita.png",
+        "response_time": 0.0019989013671875,
+        "pokemon": "Makuhita"
+    },
+    {
+        "file_name": "malamar.png",
+        "response_time": 0.002017974853515625,
+        "pokemon": "Malamar"
+    },
+    {
+        "file_name": "mamoswine.png",
+        "response_time": 0.003702878952026367,
+        "pokemon": "Mamoswine"
+    },
+    {
+        "file_name": "manaphy.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Manaphy"
+    },
+    {
+        "file_name": "mandibuzz.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Mandibuzz"
+    },
+    {
+        "file_name": "manectric-mega.png",
+        "response_time": 0.0030088424682617188,
+        "pokemon": "Manectric"
+    },
+    {
+        "file_name": "manectric.png",
+        "response_time": 0.0025527477264404297,
+        "pokemon": "Manectric"
+    },
+    {
+        "file_name": "mankey.png",
+        "response_time": 0.0025043487548828125,
+        "pokemon": "Mankey"
+    },
+    {
+        "file_name": "mantine.png",
+        "response_time": 0.002002716064453125,
+        "pokemon": "Mantine"
+    },
+    {
+        "file_name": "mantyke.png",
+        "response_time": 0.002536296844482422,
+        "pokemon": "Mantyke"
+    },
+    {
+        "file_name": "maractus.png",
+        "response_time": 0.0025131702423095703,
+        "pokemon": "Maractus"
+    },
+    {
+        "file_name": "mareanie.png",
+        "response_time": 0.004004955291748047,
+        "pokemon": "Mareanie"
+    },
+    {
+        "file_name": "mareep.png",
+        "response_time": 0.0020055770874023438,
+        "pokemon": "Mareep"
+    },
+    {
+        "file_name": "marill.png",
+        "response_time": 0.0035200119018554688,
+        "pokemon": "Marill"
+    },
+    {
+        "file_name": "marowak-alola.png",
+        "response_time": 0.0025069713592529297,
+        "pokemon": "Marowak"
+    },
+    {
+        "file_name": "marowak.png",
+        "response_time": 0.0030045509338378906,
+        "pokemon": "Marowak"
+    },
+    {
+        "file_name": "marshadow.png",
+        "response_time": 0.002009153366088867,
+        "pokemon": "Marshadow"
+    },
+    {
+        "file_name": "marshtomp.png",
+        "response_time": 0.00201416015625,
+        "pokemon": "Marshtomp"
+    },
+    {
+        "file_name": "maschiff.png",
+        "response_time": 0.002001047134399414,
+        "pokemon": "Bibarel"
+    },
+    {
+        "file_name": "masquerain.png",
+        "response_time": 0.0030014514923095703,
+        "pokemon": "Masquerain"
+    },
+    {
+        "file_name": "maushold.png",
+        "response_time": 0.0035321712493896484,
+        "pokemon": "Morelull"
+    },
+    {
+        "file_name": "mawile-mega.png",
+        "response_time": 0.0030243396759033203,
+        "pokemon": "Mawile"
+    },
+    {
+        "file_name": "mawile.png",
+        "response_time": 0.002004861831665039,
+        "pokemon": "Mawile"
+    },
+    {
+        "file_name": "medicham-mega.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Medicham"
+    },
+    {
+        "file_name": "medicham.png",
+        "response_time": 0.0035409927368164062,
+        "pokemon": "Medicham"
+    },
+    {
+        "file_name": "meditite.png",
+        "response_time": 0.0030510425567626953,
+        "pokemon": "Meditite"
+    },
+    {
+        "file_name": "meganium.png",
+        "response_time": 0.003003358840942383,
+        "pokemon": "Meganium"
+    },
+    {
+        "file_name": "melmetal-gmax.png",
+        "response_time": 0.0030024051666259766,
+        "pokemon": "Flapple"
+    },
+    {
+        "file_name": "melmetal.png",
+        "response_time": 0.002004384994506836,
+        "pokemon": "Melmetal"
+    },
+    {
+        "file_name": "meloetta-aria.png",
+        "response_time": 0.0020041465759277344,
+        "pokemon": "Meloetta"
+    },
+    {
+        "file_name": "meloetta-pirouette.png",
+        "response_time": 0.0025246143341064453,
+        "pokemon": "Meloetta"
+    },
+    {
+        "file_name": "meltan.png",
+        "response_time": 0.0015070438385009766,
+        "pokemon": "Meltan"
+    },
+    {
+        "file_name": "meowscarada.png",
+        "response_time": 0.0030035972595214844,
+        "pokemon": "Tsareena"
+    },
+    {
+        "file_name": "meowstic-male.png",
+        "response_time": 0.0020051002502441406,
+        "pokemon": "Meowstic"
+    },
+    {
+        "file_name": "meowth-alola.png",
+        "response_time": 0.0019385814666748047,
+        "pokemon": "Meowth"
+    },
+    {
+        "file_name": "meowth-galar.png",
+        "response_time": 0.0015056133270263672,
+        "pokemon": "Chansey"
+    },
+    {
+        "file_name": "meowth-gmax.png",
+        "response_time": 0.0025069713592529297,
+        "pokemon": "Rillaboom"
+    },
+    {
+        "file_name": "meowth.png",
+        "response_time": 0.00400090217590332,
+        "pokemon": "Meowth"
+    },
+    {
+        "file_name": "mesprit.png",
+        "response_time": 0.002008199691772461,
+        "pokemon": "Mesprit"
+    },
+    {
+        "file_name": "metagross-mega.png",
+        "response_time": 0.004033803939819336,
+        "pokemon": "Metagross"
+    },
+    {
+        "file_name": "metagross.png",
+        "response_time": 0.0030028820037841797,
+        "pokemon": "Metagross"
+    },
+    {
+        "file_name": "metang.png",
+        "response_time": 0.0020034313201904297,
+        "pokemon": "Metang"
+    },
+    {
+        "file_name": "metapod.png",
+        "response_time": 0.002942323684692383,
+        "pokemon": "Metapod"
+    },
+    {
+        "file_name": "mew.png",
+        "response_time": 0.0030171871185302734,
+        "pokemon": "Mew"
+    },
+    {
+        "file_name": "mewtwo-mega-x.png",
+        "response_time": 0.0029964447021484375,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "mewtwo-mega-y.png",
+        "response_time": 0.002004384994506836,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "mewtwo.png",
+        "response_time": 0.002959728240966797,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "mienfoo.png",
+        "response_time": 0.0020189285278320312,
+        "pokemon": "Mienfoo"
+    },
+    {
+        "file_name": "mienshao.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Mienshao"
+    },
+    {
+        "file_name": "mightyena.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Mightyena"
+    },
+    {
+        "file_name": "milcery.png",
+        "response_time": 0.003011941909790039,
+        "pokemon": "Milcery"
+    },
+    {
+        "file_name": "milotic.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Milotic"
+    },
+    {
+        "file_name": "miltank.png",
+        "response_time": 0.0025110244750976562,
+        "pokemon": "Miltank"
+    },
+    {
+        "file_name": "mime-jr.png",
+        "response_time": 0.0030050277709960938,
+        "pokemon": "Mime Jr."
+    },
+    {
+        "file_name": "mimikyu-busted.png",
+        "response_time": 0.0030019283294677734,
+        "pokemon": "Mimikyu"
+    },
+    {
+        "file_name": "mimikyu-disguised.png",
+        "response_time": 0.002515554428100586,
+        "pokemon": "Mimikyu"
+    },
+    {
+        "file_name": "minccino.png",
+        "response_time": 0.002507448196411133,
+        "pokemon": "Minccino"
+    },
+    {
+        "file_name": "minior-red-meteor.png",
+        "response_time": 0.0040094852447509766,
+        "pokemon": "Minior"
+    },
+    {
+        "file_name": "minun.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Minun"
+    },
+    {
+        "file_name": "miraidon.png",
+        "response_time": 0.002538919448852539,
+        "pokemon": "Liepard"
+    },
+    {
+        "file_name": "misdreavus.png",
+        "response_time": 0.002513408660888672,
+        "pokemon": "Misdreavus"
+    },
+    {
+        "file_name": "mismagius.png",
+        "response_time": 0.004003763198852539,
+        "pokemon": "Mismagius"
+    },
+    {
+        "file_name": "moltres-galar.png",
+        "response_time": 0.0020034313201904297,
+        "pokemon": "Zigzagoon"
+    },
+    {
+        "file_name": "moltres.png",
+        "response_time": 0.003010272979736328,
+        "pokemon": "Moltres"
+    },
+    {
+        "file_name": "monferno.png",
+        "response_time": 0.0025186538696289062,
+        "pokemon": "Monferno"
+    },
+    {
+        "file_name": "morelull.png",
+        "response_time": 0.002513885498046875,
+        "pokemon": "Morelull"
+    },
+    {
+        "file_name": "morgrem.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Morgrem"
+    },
+    {
+        "file_name": "morpeko-full-belly.png",
+        "response_time": 0.0020008087158203125,
+        "pokemon": "Morpeko"
+    },
+    {
+        "file_name": "morpeko-hangry.png",
+        "response_time": 0.0029964447021484375,
+        "pokemon": "Moltres"
+    },
+    {
+        "file_name": "mothim.png",
+        "response_time": 0.0035228729248046875,
+        "pokemon": "Mothim"
+    },
+    {
+        "file_name": "mr-mime-galar.png",
+        "response_time": 0.0020112991333007812,
+        "pokemon": "Salazzle"
+    },
+    {
+        "file_name": "mr-mime.png",
+        "response_time": 0.0035424232482910156,
+        "pokemon": "Mr. Mime"
+    },
+    {
+        "file_name": "mr-rime.png",
+        "response_time": 0.0030205249786376953,
+        "pokemon": "Mr. Rime"
+    },
+    {
+        "file_name": "mudbray.png",
+        "response_time": 0.003525257110595703,
+        "pokemon": "Mudbray"
+    },
+    {
+        "file_name": "mudkip.png",
+        "response_time": 0.002002716064453125,
+        "pokemon": "Mudkip"
+    },
+    {
+        "file_name": "mudsdale.png",
+        "response_time": 0.003524303436279297,
+        "pokemon": "Mudsdale"
+    },
+    {
+        "file_name": "muk-alola.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Muk"
+    },
+    {
+        "file_name": "muk.png",
+        "response_time": 0.002515554428100586,
+        "pokemon": "Muk"
+    },
+    {
+        "file_name": "munchlax.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Munchlax"
+    },
+    {
+        "file_name": "munna.png",
+        "response_time": 0.004602909088134766,
+        "pokemon": "Munna"
+    },
+    {
+        "file_name": "murkrow.png",
+        "response_time": 0.0035054683685302734,
+        "pokemon": "Murkrow"
+    },
+    {
+        "file_name": "musharna.png",
+        "response_time": 0.003520965576171875,
+        "pokemon": "Musharna"
+    },
+    {
+        "file_name": "nacli.png",
+        "response_time": 0.00453639030456543,
+        "pokemon": "Crustle"
+    },
+    {
+        "file_name": "naclstack.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Regirock"
+    },
+    {
+        "file_name": "naganadel.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Naganadel"
+    },
+    {
+        "file_name": "natu.png",
+        "response_time": 0.001998424530029297,
+        "pokemon": "Natu"
+    },
+    {
+        "file_name": "necrozma.png",
+        "response_time": 0.0030107498168945312,
+        "pokemon": "Necrozma"
+    },
+    {
+        "file_name": "nickit.png",
+        "response_time": 0.0025250911712646484,
+        "pokemon": "Nickit"
+    },
+    {
+        "file_name": "nidoking.png",
+        "response_time": 0.003529787063598633,
+        "pokemon": "Nidoking"
+    },
+    {
+        "file_name": "nidoqueen.png",
+        "response_time": 0.0025174617767333984,
+        "pokemon": "Nidoqueen"
+    },
+    {
+        "file_name": "nidoran-f.png",
+        "response_time": 0.0029985904693603516,
+        "pokemon": "Nidoran\u2640"
+    },
+    {
+        "file_name": "nidoran-m.png",
+        "response_time": 0.00299835205078125,
+        "pokemon": "Nidoran\u2642"
+    },
+    {
+        "file_name": "nidorina.png",
+        "response_time": 0.003523111343383789,
+        "pokemon": "Nidorina"
+    },
+    {
+        "file_name": "nidorino.png",
+        "response_time": 0.0035238265991210938,
+        "pokemon": "Nidorino"
+    },
+    {
+        "file_name": "nihilego.png",
+        "response_time": 0.002516031265258789,
+        "pokemon": "Nihilego"
+    },
+    {
+        "file_name": "nincada.png",
+        "response_time": 0.003003358840942383,
+        "pokemon": "Nincada"
+    },
+    {
+        "file_name": "ninetales-alola.png",
+        "response_time": 0.002516508102416992,
+        "pokemon": "Nihilego"
+    },
+    {
+        "file_name": "ninetales.png",
+        "response_time": 0.002521991729736328,
+        "pokemon": "Ninetales"
+    },
+    {
+        "file_name": "ninjask.png",
+        "response_time": 0.0020170211791992188,
+        "pokemon": "Ninjask"
+    },
+    {
+        "file_name": "noctowl.png",
+        "response_time": 0.002509593963623047,
+        "pokemon": "Noctowl"
+    },
+    {
+        "file_name": "noibat.png",
+        "response_time": 0.0019960403442382812,
+        "pokemon": "Noibat"
+    },
+    {
+        "file_name": "noivern.png",
+        "response_time": 0.0024619102478027344,
+        "pokemon": "Noivern"
+    },
+    {
+        "file_name": "nosepass.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Nosepass"
+    },
+    {
+        "file_name": "numel.png",
+        "response_time": 0.0025093555450439453,
+        "pokemon": "Numel"
+    },
+    {
+        "file_name": "nuzleaf.png",
+        "response_time": 0.0029914379119873047,
+        "pokemon": "Nuzleaf"
+    },
+    {
+        "file_name": "nymble.png",
+        "response_time": 0.004530668258666992,
+        "pokemon": "Shieldon"
+    },
+    {
+        "file_name": "obstagoon.png",
+        "response_time": 0.002521991729736328,
+        "pokemon": "Obstagoon"
+    },
+    {
+        "file_name": "octillery.png",
+        "response_time": 0.0030336380004882812,
+        "pokemon": "Octillery"
+    },
+    {
+        "file_name": "oddish.png",
+        "response_time": 0.002516508102416992,
+        "pokemon": "Oddish"
+    },
+    {
+        "file_name": "oinkologne.png",
+        "response_time": 0.0030121803283691406,
+        "pokemon": "Grumpig"
+    },
+    {
+        "file_name": "omanyte.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Omanyte"
+    },
+    {
+        "file_name": "omastar.png",
+        "response_time": 0.0015096664428710938,
+        "pokemon": "Omastar"
+    },
+    {
+        "file_name": "onix.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Onix"
+    },
+    {
+        "file_name": "oranguru.png",
+        "response_time": 0.002508878707885742,
+        "pokemon": "Oranguru"
+    },
+    {
+        "file_name": "orbeetle-gmax.png",
+        "response_time": 0.002004384994506836,
+        "pokemon": "Obstagoon"
+    },
+    {
+        "file_name": "orbeetle.png",
+        "response_time": 0.0025141239166259766,
+        "pokemon": "Orbeetle"
+    },
+    {
+        "file_name": "oricorio-baile.png",
+        "response_time": 0.003018617630004883,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "oricorio-pau.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "oricorio-pom-pom.png",
+        "response_time": 0.002514362335205078,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "oricorio-sensu.png",
+        "response_time": 0.002566814422607422,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "orthworm.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Latias"
+    },
+    {
+        "file_name": "oshawott.png",
+        "response_time": 0.002522706985473633,
+        "pokemon": "Oshawott"
+    },
+    {
+        "file_name": "overqwil.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Qwilfish"
+    },
+    {
+        "file_name": "pachirisu.png",
+        "response_time": 0.0030095577239990234,
+        "pokemon": "Pachirisu"
+    },
+    {
+        "file_name": "palafin.png",
+        "response_time": 0.0025091171264648438,
+        "pokemon": "Remoraid"
+    },
+    {
+        "file_name": "palkia.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Palkia"
+    },
+    {
+        "file_name": "palossand.png",
+        "response_time": 0.002018451690673828,
+        "pokemon": "Palossand"
+    },
+    {
+        "file_name": "palpitoad.png",
+        "response_time": 0.002009868621826172,
+        "pokemon": "Palpitoad"
+    },
+    {
+        "file_name": "pancham.png",
+        "response_time": 0.0035247802734375,
+        "pokemon": "Pancham"
+    },
+    {
+        "file_name": "pangoro.png",
+        "response_time": 0.0020194053649902344,
+        "pokemon": "Pangoro"
+    },
+    {
+        "file_name": "panpour.png",
+        "response_time": 0.004034519195556641,
+        "pokemon": "Panpour"
+    },
+    {
+        "file_name": "pansage.png",
+        "response_time": 0.003000974655151367,
+        "pokemon": "Pansage"
+    },
+    {
+        "file_name": "pansear.png",
+        "response_time": 0.002524852752685547,
+        "pokemon": "Pansear"
+    },
+    {
+        "file_name": "paras.png",
+        "response_time": 0.002011537551879883,
+        "pokemon": "Paras"
+    },
+    {
+        "file_name": "parasect.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Parasect"
+    },
+    {
+        "file_name": "passimian.png",
+        "response_time": 0.002513885498046875,
+        "pokemon": "Passimian"
+    },
+    {
+        "file_name": "patrat.png",
+        "response_time": 0.0025115013122558594,
+        "pokemon": "Patrat"
+    },
+    {
+        "file_name": "pawmi.png",
+        "response_time": 0.0035216808319091797,
+        "pokemon": "Cufant"
+    },
+    {
+        "file_name": "pawmo.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Sentret"
+    },
+    {
+        "file_name": "pawmot.png",
+        "response_time": 0.0035245418548583984,
+        "pokemon": "Teddiursa"
+    },
+    {
+        "file_name": "pawniard.png",
+        "response_time": 0.002522706985473633,
+        "pokemon": "Pawniard"
+    },
+    {
+        "file_name": "pelipper.png",
+        "response_time": 0.0020117759704589844,
+        "pokemon": "Pelipper"
+    },
+    {
+        "file_name": "perrserker.png",
+        "response_time": 0.0035190582275390625,
+        "pokemon": "Perrserker"
+    },
+    {
+        "file_name": "persian-alola.png",
+        "response_time": 0.0025255680084228516,
+        "pokemon": "Persian"
+    },
+    {
+        "file_name": "persian.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Persian"
+    },
+    {
+        "file_name": "petilil.png",
+        "response_time": 0.003535747528076172,
+        "pokemon": "Petilil"
+    },
+    {
+        "file_name": "phanpy.png",
+        "response_time": 0.0030138492584228516,
+        "pokemon": "Phanpy"
+    },
+    {
+        "file_name": "phantump.png",
+        "response_time": 0.0035316944122314453,
+        "pokemon": "Phantump"
+    },
+    {
+        "file_name": "pheromosa.png",
+        "response_time": 0.0024712085723876953,
+        "pokemon": "Pheromosa"
+    },
+    {
+        "file_name": "phione.png",
+        "response_time": 0.003520488739013672,
+        "pokemon": "Phione"
+    },
+    {
+        "file_name": "pichu.png",
+        "response_time": 0.003017902374267578,
+        "pokemon": "Pichu"
+    },
+    {
+        "file_name": "pidgeot-mega.png",
+        "response_time": 0.004537343978881836,
+        "pokemon": "Pidgeot"
+    },
+    {
+        "file_name": "pidgeot.png",
+        "response_time": 0.0025267601013183594,
+        "pokemon": "Pidgeotto"
+    },
+    {
+        "file_name": "pidgeotto.png",
+        "response_time": 0.0035524368286132812,
+        "pokemon": "Pidgeotto"
+    },
+    {
+        "file_name": "pidgey.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Pidgey"
+    },
+    {
+        "file_name": "pidove.png",
+        "response_time": 0.004057884216308594,
+        "pokemon": "Pidove"
+    },
+    {
+        "file_name": "pignite.png",
+        "response_time": 0.003507852554321289,
+        "pokemon": "Pignite"
+    },
+    {
+        "file_name": "pikachu-alola-cap.png",
+        "response_time": 0.004521846771240234,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-belle.png",
+        "response_time": 0.0030083656311035156,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-gmax.png",
+        "response_time": 0.0030150413513183594,
+        "pokemon": "Obstagoon"
+    },
+    {
+        "file_name": "pikachu-hoenn-cap.png",
+        "response_time": 0.002015352249145508,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-kalos-cap.png",
+        "response_time": 0.0025315284729003906,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-libre.png",
+        "response_time": 0.003030538558959961,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-original-cap.png",
+        "response_time": 0.0035123825073242188,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-partner-cap.png",
+        "response_time": 0.003222227096557617,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-phd.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-pop-star.png",
+        "response_time": 0.002468109130859375,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-rock-star.png",
+        "response_time": 0.0015094280242919922,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-sinnoh-cap.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-starter.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Perrserker"
+    },
+    {
+        "file_name": "pikachu-unova-cap.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikachu-world-cap.png",
+        "response_time": 0.0030126571655273438,
+        "pokemon": "Ninetales"
+    },
+    {
+        "file_name": "pikachu.png",
+        "response_time": 0.0019402503967285156,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pikipek.png",
+        "response_time": 0.003483295440673828,
+        "pokemon": "Pikipek"
+    },
+    {
+        "file_name": "piloswine.png",
+        "response_time": 0.0035169124603271484,
+        "pokemon": "Piloswine"
+    },
+    {
+        "file_name": "pincurchin.png",
+        "response_time": 0.0025119781494140625,
+        "pokemon": "Pincurchin"
+    },
+    {
+        "file_name": "pineco.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Pineco"
+    },
+    {
+        "file_name": "pinsir-mega.png",
+        "response_time": 0.004018545150756836,
+        "pokemon": "Pinsir"
+    },
+    {
+        "file_name": "pinsir.png",
+        "response_time": 0.004018306732177734,
+        "pokemon": "Pinsir"
+    },
+    {
+        "file_name": "piplup.png",
+        "response_time": 0.004034757614135742,
+        "pokemon": "Piplup"
+    },
+    {
+        "file_name": "plusle.png",
+        "response_time": 0.004022359848022461,
+        "pokemon": "Plusle"
+    },
+    {
+        "file_name": "poipole.png",
+        "response_time": 0.004027366638183594,
+        "pokemon": "Poipole"
+    },
+    {
+        "file_name": "pokemon_10001.png",
+        "response_time": 0.005061149597167969,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "pokemon_10002.png",
+        "response_time": 0.006558418273925781,
+        "pokemon": "Deoxys"
+    },
+    {
+        "file_name": "pokemon_10003.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10004.png",
+        "response_time": 0.0035076141357421875,
+        "pokemon": "Wormadam"
+    },
+    {
+        "file_name": "pokemon_10005.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10006.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10007.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10008.png",
+        "response_time": 0.0046138763427734375,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "pokemon_10009.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10010.png",
+        "response_time": 0.0020096302032470703,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "pokemon_10011.png",
+        "response_time": 0.002529144287109375,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "pokemon_10012.png",
+        "response_time": 0.0025353431701660156,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "pokemon_10013.png",
+        "response_time": 0.0035254955291748047,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "pokemon_10014.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "pokemon_10015.png",
+        "response_time": 0.0025207996368408203,
+        "pokemon": "Castform"
+    },
+    {
+        "file_name": "pokemon_10016.png",
+        "response_time": 0.0020270347595214844,
+        "pokemon": "Basculin"
+    },
+    {
+        "file_name": "pokemon_10017.png",
+        "response_time": 0.002532482147216797,
+        "pokemon": "Darumaka"
+    },
+    {
+        "file_name": "pokemon_10018.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Meloetta"
+    },
+    {
+        "file_name": "pokemon_10019.png",
+        "response_time": 0.003510713577270508,
+        "pokemon": "Tornadus"
+    },
+    {
+        "file_name": "pokemon_10020.png",
+        "response_time": 0.0020008087158203125,
+        "pokemon": "Thundurus"
+    },
+    {
+        "file_name": "pokemon_10021.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10022.png",
+        "response_time": 0.0029959678649902344,
+        "pokemon": "Kyurem"
+    },
+    {
+        "file_name": "pokemon_10023.png",
+        "response_time": 0.003998756408691406,
+        "pokemon": "Kyurem"
+    },
+    {
+        "file_name": "pokemon_10024.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10026.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Aegislash"
+    },
+    {
+        "file_name": "pokemon_10027.png",
+        "response_time": 0.001997232437133789,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pokemon_10028.png",
+        "response_time": 0.002995729446411133,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pokemon_10029.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pokemon_10030.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Gourgeist"
+    },
+    {
+        "file_name": "pokemon_10031.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10032.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10033.png",
+        "response_time": 0.002995014190673828,
+        "pokemon": "Venusaur"
+    },
+    {
+        "file_name": "pokemon_10034.png",
+        "response_time": 0.0029523372650146484,
+        "pokemon": "Charizard"
+    },
+    {
+        "file_name": "pokemon_10035.png",
+        "response_time": 0.0025229454040527344,
+        "pokemon": "Charizard"
+    },
+    {
+        "file_name": "pokemon_10036.png",
+        "response_time": 0.004024505615234375,
+        "pokemon": "Blastoise"
+    },
+    {
+        "file_name": "pokemon_10037.png",
+        "response_time": 0.0020012855529785156,
+        "pokemon": "Alakazam"
+    },
+    {
+        "file_name": "pokemon_10038.png",
+        "response_time": 0.002998828887939453,
+        "pokemon": "Gengar"
+    },
+    {
+        "file_name": "pokemon_10039.png",
+        "response_time": 0.001995086669921875,
+        "pokemon": "Kangaskhan"
+    },
+    {
+        "file_name": "pokemon_10040.png",
+        "response_time": 0.0045282840728759766,
+        "pokemon": "Pinsir"
+    },
+    {
+        "file_name": "pokemon_10041.png",
+        "response_time": 0.003030538558959961,
+        "pokemon": "Gyarados"
+    },
+    {
+        "file_name": "pokemon_10042.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10043.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "pokemon_10044.png",
+        "response_time": 0.0019998550415039062,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "pokemon_10045.png",
+        "response_time": 0.003993034362792969,
+        "pokemon": "Ampharos"
+    },
+    {
+        "file_name": "pokemon_10046.png",
+        "response_time": 0.001993417739868164,
+        "pokemon": "Scizor"
+    },
+    {
+        "file_name": "pokemon_10047.png",
+        "response_time": 0.0035181045532226562,
+        "pokemon": "Heracross"
+    },
+    {
+        "file_name": "pokemon_10048.png",
+        "response_time": 0.0015077590942382812,
+        "pokemon": "Houndoom"
+    },
+    {
+        "file_name": "pokemon_10049.png",
+        "response_time": 0.0030069351196289062,
+        "pokemon": "Tyranitar"
+    },
+    {
+        "file_name": "pokemon_10050.png",
+        "response_time": 0.003000020980834961,
+        "pokemon": "Blaziken"
+    },
+    {
+        "file_name": "pokemon_10051.png",
+        "response_time": 0.003517627716064453,
+        "pokemon": "Gardevoir"
+    },
+    {
+        "file_name": "pokemon_10052.png",
+        "response_time": 0.002017498016357422,
+        "pokemon": "Mawile"
+    },
+    {
+        "file_name": "pokemon_10053.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10054.png",
+        "response_time": 0.0035066604614257812,
+        "pokemon": "Medicham"
+    },
+    {
+        "file_name": "pokemon_10055.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Manectric"
+    },
+    {
+        "file_name": "pokemon_10056.png",
+        "response_time": 0.0030062198638916016,
+        "pokemon": "Banette"
+    },
+    {
+        "file_name": "pokemon_10057.png",
+        "response_time": 0.0025141239166259766,
+        "pokemon": "Absol"
+    },
+    {
+        "file_name": "pokemon_10058.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Garchomp"
+    },
+    {
+        "file_name": "pokemon_10059.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Lucario"
+    },
+    {
+        "file_name": "pokemon_10060.png",
+        "response_time": 0.0020036697387695312,
+        "pokemon": "Abomasnow"
+    },
+    {
+        "file_name": "pokemon_10062.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10063.png",
+        "response_time": 0.0020165443420410156,
+        "pokemon": "Latios"
+    },
+    {
+        "file_name": "pokemon_10064.png",
+        "response_time": 0.0025162696838378906,
+        "pokemon": "Swampert"
+    },
+    {
+        "file_name": "pokemon_10065.png",
+        "response_time": 0.0035164356231689453,
+        "pokemon": "Sceptile"
+    },
+    {
+        "file_name": "pokemon_10066.png",
+        "response_time": 0.002996206283569336,
+        "pokemon": "Sableye"
+    },
+    {
+        "file_name": "pokemon_10067.png",
+        "response_time": 0.003005504608154297,
+        "pokemon": "Altaria"
+    },
+    {
+        "file_name": "pokemon_10068.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10069.png",
+        "response_time": 0.002005338668823242,
+        "pokemon": "Audino"
+    },
+    {
+        "file_name": "pokemon_10070.png",
+        "response_time": 0.0030329227447509766,
+        "pokemon": "Sharpedo"
+    },
+    {
+        "file_name": "pokemon_10071.png",
+        "response_time": 0.0020215511322021484,
+        "pokemon": "Slowbro"
+    },
+    {
+        "file_name": "pokemon_10072.png",
+        "response_time": 0.004052162170410156,
+        "pokemon": "Steelix"
+    },
+    {
+        "file_name": "pokemon_10073.png",
+        "response_time": 0.0030014514923095703,
+        "pokemon": "Pidgeot"
+    },
+    {
+        "file_name": "pokemon_10074.png",
+        "response_time": 0.00400996208190918,
+        "pokemon": "Glalie"
+    },
+    {
+        "file_name": "pokemon_10075.png",
+        "response_time": 0.001956939697265625,
+        "pokemon": "Diancie"
+    },
+    {
+        "file_name": "pokemon_10076.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10077.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10078.png",
+        "response_time": 0.002008676528930664,
+        "pokemon": "Groudon"
+    },
+    {
+        "file_name": "pokemon_10079.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10080.png",
+        "response_time": 0.003513813018798828,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10081.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10082.png",
+        "response_time": 0.0030202865600585938,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10083.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10084.png",
+        "response_time": 0.0025174617767333984,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10086.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10087.png",
+        "response_time": 0.002517223358154297,
+        "pokemon": "Camerupt"
+    },
+    {
+        "file_name": "pokemon_10088.png",
+        "response_time": 0.0025098323822021484,
+        "pokemon": "Lopunny"
+    },
+    {
+        "file_name": "pokemon_10089.png",
+        "response_time": 0.0030100345611572266,
+        "pokemon": "Salamence"
+    },
+    {
+        "file_name": "pokemon_10090.png",
+        "response_time": 0.0030031204223632812,
+        "pokemon": "Beedrill"
+    },
+    {
+        "file_name": "pokemon_10091.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10092.png",
+        "response_time": 0.0030128955841064453,
+        "pokemon": "Raticate"
+    },
+    {
+        "file_name": "pokemon_10094.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10095.png",
+        "response_time": 0.0019998550415039062,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10096.png",
+        "response_time": 0.0030069351196289062,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10097.png",
+        "response_time": 0.002511262893676758,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10098.png",
+        "response_time": 0.002532958984375,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10099.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10100.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Raichu"
+    },
+    {
+        "file_name": "pokemon_10101.png",
+        "response_time": 0.002535581588745117,
+        "pokemon": "Sandshrew"
+    },
+    {
+        "file_name": "pokemon_10102.png",
+        "response_time": 0.0035147666931152344,
+        "pokemon": "Sandslash"
+    },
+    {
+        "file_name": "pokemon_10103.png",
+        "response_time": 0.002507925033569336,
+        "pokemon": "Swanna"
+    },
+    {
+        "file_name": "pokemon_10104.png",
+        "response_time": 0.00452876091003418,
+        "pokemon": "Nihilego"
+    },
+    {
+        "file_name": "pokemon_10105.png",
+        "response_time": 0.0025157928466796875,
+        "pokemon": "Diglett"
+    },
+    {
+        "file_name": "pokemon_10106.png",
+        "response_time": 0.0035114288330078125,
+        "pokemon": "Dugtrio"
+    },
+    {
+        "file_name": "pokemon_10107.png",
+        "response_time": 0.003000974655151367,
+        "pokemon": "Meowth"
+    },
+    {
+        "file_name": "pokemon_10108.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Persian"
+    },
+    {
+        "file_name": "pokemon_10109.png",
+        "response_time": 0.002522706985473633,
+        "pokemon": "Geodude"
+    },
+    {
+        "file_name": "pokemon_10110.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Graveler"
+    },
+    {
+        "file_name": "pokemon_10111.png",
+        "response_time": 0.003513336181640625,
+        "pokemon": "Golem"
+    },
+    {
+        "file_name": "pokemon_10112.png",
+        "response_time": 0.0025238990783691406,
+        "pokemon": "Grimer"
+    },
+    {
+        "file_name": "pokemon_10113.png",
+        "response_time": 0.003520488739013672,
+        "pokemon": "Muk"
+    },
+    {
+        "file_name": "pokemon_10114.png",
+        "response_time": 0.003515481948852539,
+        "pokemon": "Exeggutor"
+    },
+    {
+        "file_name": "pokemon_10115.png",
+        "response_time": 0.003513813018798828,
+        "pokemon": "Marowak"
+    },
+    {
+        "file_name": "pokemon_10117.png",
+        "response_time": 0.0030052661895751953,
+        "pokemon": "Greninja"
+    },
+    {
+        "file_name": "pokemon_10118.png",
+        "response_time": 0.004515647888183594,
+        "pokemon": "Zygarde"
+    },
+    {
+        "file_name": "pokemon_10120.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Zygarde"
+    },
+    {
+        "file_name": "pokemon_10123.png",
+        "response_time": 0.0030281543731689453,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "pokemon_10124.png",
+        "response_time": 0.0025250911712646484,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "pokemon_10125.png",
+        "response_time": 0.003523111343383789,
+        "pokemon": "Oricorio"
+    },
+    {
+        "file_name": "pokemon_10126.png",
+        "response_time": 0.0025086402893066406,
+        "pokemon": "Lycanroc"
+    },
+    {
+        "file_name": "pokemon_10127.png",
+        "response_time": 0.003000497817993164,
+        "pokemon": "Wishiwashi"
+    },
+    {
+        "file_name": "pokemon_10143.png",
+        "response_time": 0.003007650375366211,
+        "pokemon": "Mimikyu"
+    },
+    {
+        "file_name": "pokemon_10147.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Magearna"
+    },
+    {
+        "file_name": "pokemon_10148.png",
+        "response_time": 0.0025169849395751953,
+        "pokemon": "Pikachu"
+    },
+    {
+        "file_name": "pokemon_10152.png",
+        "response_time": 0.002526521682739258,
+        "pokemon": "Lycanroc"
+    },
+    {
+        "file_name": "pokemon_10155.png",
+        "response_time": 0.0020093917846679688,
+        "pokemon": "Chatot"
+    },
+    {
+        "file_name": "pokemon_10156.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Necrozma"
+    },
+    {
+        "file_name": "pokemon_10157.png",
+        "response_time": 0.0020055770874023438,
+        "pokemon": "Reshiram"
+    },
+    {
+        "file_name": "pokemon_10158.png",
+        "response_time": 0.0020079612731933594,
+        "pokemon": "Perrserker"
+    },
+    {
+        "file_name": "pokemon_10159.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10160.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10161.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10162.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10163.png",
+        "response_time": 0.003020763397216797,
+        "pokemon": "Farfetch'd"
+    },
+    {
+        "file_name": "pokemon_10164.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10165.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10166.png",
+        "response_time": 0.002997875213623047,
+        "pokemon": "Mienshao"
+    },
+    {
+        "file_name": "pokemon_10167.png",
+        "response_time": 0.0019986629486083984,
+        "pokemon": "Talonflame"
+    },
+    {
+        "file_name": "pokemon_10168.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10169.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10170.png",
+        "response_time": 0.002002716064453125,
+        "pokemon": "Corsola"
+    },
+    {
+        "file_name": "pokemon_10171.png",
+        "response_time": 0.0020101070404052734,
+        "pokemon": "Zigzagoon"
+    },
+    {
+        "file_name": "pokemon_10172.png",
+        "response_time": 0.003108501434326172,
+        "pokemon": "Linoone"
+    },
+    {
+        "file_name": "pokemon_10173.png",
+        "response_time": 0.0035157203674316406,
+        "pokemon": "Darumaka"
+    },
+    {
+        "file_name": "pokemon_10174.png",
+        "response_time": 0.003519296646118164,
+        "pokemon": "Litwick"
+    },
+    {
+        "file_name": "pokemon_10175.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10176.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10177.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10178.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Toxel"
+    },
+    {
+        "file_name": "pokemon_10179.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10181.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10182.png",
+        "response_time": 0.003016948699951172,
+        "pokemon": "Zamazenta"
+    },
+    {
+        "file_name": "pokemon_10183.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10184.png",
+        "response_time": 0.0025873184204101562,
+        "pokemon": "Calyrex"
+    },
+    {
+        "file_name": "pokemon_10185.png",
+        "response_time": 0.0030112266540527344,
+        "pokemon": "Calyrex"
+    },
+    {
+        "file_name": "pokemon_10186.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10187.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10188.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10189.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10190.png",
+        "response_time": 0.002508878707885742,
+        "pokemon": "Sentret"
+    },
+    {
+        "file_name": "pokemon_10191.png",
+        "response_time": 0.0030100345611572266,
+        "pokemon": "Sudowoodo"
+    },
+    {
+        "file_name": "pokemon_10192.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10193.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10194.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10195.png",
+        "response_time": 0.003521442413330078,
+        "pokemon": "Lapras"
+    },
+    {
+        "file_name": "pokemon_10196.png",
+        "response_time": 0.0030105113983154297,
+        "pokemon": "Morpeko"
+    },
+    {
+        "file_name": "pokemon_10198.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10199.png",
+        "response_time": 0.0020132064819335938,
+        "pokemon": "Obstagoon"
+    },
+    {
+        "file_name": "pokemon_10200.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10201.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10202.png",
+        "response_time": 0.003518342971801758,
+        "pokemon": "Amaura"
+    },
+    {
+        "file_name": "pokemon_10204.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10205.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10206.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10207.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10208.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10209.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10210.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10211.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10212.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10213.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10214.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10215.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10216.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10217.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10218.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10219.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10220.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10221.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10222.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10224.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10226.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10227.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10228.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10229.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Tsareena"
+    },
+    {
+        "file_name": "pokemon_10230.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10231.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10232.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10233.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10235.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10236.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10237.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "pokemon_10238.png",
+        "error": "Invalid image."
+    },
+    {
+        "file_name": "politoed.png",
+        "response_time": 0.003522157669067383,
+        "pokemon": "Politoed"
+    },
+    {
+        "file_name": "poliwag.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Poliwag"
+    },
+    {
+        "file_name": "poliwhirl.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Poliwhirl"
+    },
+    {
+        "file_name": "poliwrath.png",
+        "response_time": 0.002009153366088867,
+        "pokemon": "Poliwrath"
+    },
+    {
+        "file_name": "polteageist.png",
+        "response_time": 0.003525257110595703,
+        "pokemon": "Polteageist"
+    },
+    {
+        "file_name": "ponyta-galar.png",
+        "response_time": 0.002525806427001953,
+        "pokemon": "Slowbro"
+    },
+    {
+        "file_name": "ponyta.png",
+        "response_time": 0.003515481948852539,
+        "pokemon": "Ponyta"
+    },
+    {
+        "file_name": "poochyena.png",
+        "response_time": 0.0035202503204345703,
+        "pokemon": "Poochyena"
+    },
+    {
+        "file_name": "popplio.png",
+        "response_time": 0.00301361083984375,
+        "pokemon": "Popplio"
+    },
+    {
+        "file_name": "porygon-z.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Porygon-Z"
+    },
+    {
+        "file_name": "porygon.png",
+        "response_time": 0.002512216567993164,
+        "pokemon": "Porygon"
+    },
+    {
+        "file_name": "porygon2.png",
+        "response_time": 0.0030922889709472656,
+        "pokemon": "Porygon2"
+    },
+    {
+        "file_name": "primarina.png",
+        "response_time": 0.002004384994506836,
+        "pokemon": "Primarina"
+    },
+    {
+        "file_name": "primeape.png",
+        "response_time": 0.003541231155395508,
+        "pokemon": "Primeape"
+    },
+    {
+        "file_name": "prinplup.png",
+        "response_time": 0.0035288333892822266,
+        "pokemon": "Prinplup"
+    },
+    {
+        "file_name": "probopass.png",
+        "response_time": 0.004029273986816406,
+        "pokemon": "Probopass"
+    },
+    {
+        "file_name": "psyduck.png",
+        "response_time": 0.0035102367401123047,
+        "pokemon": "Psyduck"
+    },
+    {
+        "file_name": "pumpkaboo-average.png",
+        "response_time": 0.0030295848846435547,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pumpkaboo-large.png",
+        "response_time": 0.003015279769897461,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pumpkaboo-small.png",
+        "response_time": 0.0035316944122314453,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pumpkaboo-super.png",
+        "response_time": 0.0025243759155273438,
+        "pokemon": "Pumpkaboo"
+    },
+    {
+        "file_name": "pupitar.png",
+        "response_time": 0.002526998519897461,
+        "pokemon": "Pupitar"
+    },
+    {
+        "file_name": "purrloin.png",
+        "response_time": 0.0025119781494140625,
+        "pokemon": "Purrloin"
+    },
+    {
+        "file_name": "purugly.png",
+        "response_time": 0.003014087677001953,
+        "pokemon": "Purugly"
+    },
+    {
+        "file_name": "pyroar.png",
+        "response_time": 0.003014802932739258,
+        "pokemon": "Pyroar"
+    },
+    {
+        "file_name": "pyukumuku.png",
+        "response_time": 0.0035262107849121094,
+        "pokemon": "Pyukumuku"
+    },
+    {
+        "file_name": "quagsire.png",
+        "response_time": 0.0030286312103271484,
+        "pokemon": "Quagsire"
+    },
+    {
+        "file_name": "quaquaval.png",
+        "response_time": 0.0035791397094726562,
+        "pokemon": "Gabite"
+    },
+    {
+        "file_name": "quaxly.png",
+        "response_time": 0.0030100345611572266,
+        "pokemon": "Ducklett"
+    },
+    {
+        "file_name": "quaxwell.png",
+        "response_time": 0.003523111343383789,
+        "pokemon": "Simipour"
+    },
+    {
+        "file_name": "quilava.png",
+        "response_time": 0.001505136489868164,
+        "pokemon": "Quilava"
+    },
+    {
+        "file_name": "quilladin.png",
+        "response_time": 0.0025055408477783203,
+        "pokemon": "Quilladin"
+    },
+    {
+        "file_name": "qwilfish-hisui.png",
+        "response_time": 0.0025091171264648438,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "qwilfish.png",
+        "response_time": 0.003010272979736328,
+        "pokemon": "Qwilfish"
+    },
+    {
+        "file_name": "raboot.png",
+        "response_time": 0.003023862838745117,
+        "pokemon": "Raboot"
+    },
+    {
+        "file_name": "rabsca.png",
+        "response_time": 0.0030260086059570312,
+        "pokemon": "Jellicent"
+    },
+    {
+        "file_name": "raichu-alola.png",
+        "response_time": 0.0025246143341064453,
+        "pokemon": "Raichu"
+    },
+    {
+        "file_name": "raichu.png",
+        "response_time": 0.003531217575073242,
+        "pokemon": "Raichu"
+    },
+    {
+        "file_name": "raikou.png",
+        "response_time": 0.002525806427001953,
+        "pokemon": "Raikou"
+    },
+    {
+        "file_name": "ralts.png",
+        "response_time": 0.003015279769897461,
+        "pokemon": "Ralts"
+    },
+    {
+        "file_name": "rampardos.png",
+        "response_time": 0.0030176639556884766,
+        "pokemon": "Rampardos"
+    },
+    {
+        "file_name": "rapidash-galar.png",
+        "response_time": 0.0025200843811035156,
+        "pokemon": "Farfetch'd"
+    },
+    {
+        "file_name": "rapidash.png",
+        "response_time": 0.00403285026550293,
+        "pokemon": "Rapidash"
+    },
+    {
+        "file_name": "raticate-alola.png",
+        "response_time": 0.0025177001953125,
+        "pokemon": "Raticate"
+    },
+    {
+        "file_name": "raticate.png",
+        "response_time": 0.0019905567169189453,
+        "pokemon": "Raticate"
+    },
+    {
+        "file_name": "rattata-alola.png",
+        "response_time": 0.0030138492584228516,
+        "pokemon": "Rattata"
+    },
+    {
+        "file_name": "rattata.png",
+        "response_time": 0.0030241012573242188,
+        "pokemon": "Rattata"
+    },
+    {
+        "file_name": "rayquaza-mega.png",
+        "response_time": 0.0030312538146972656,
+        "pokemon": "Rayquaza"
+    },
+    {
+        "file_name": "rayquaza.png",
+        "response_time": 0.002017498016357422,
+        "pokemon": "Rayquaza"
+    },
+    {
+        "file_name": "regice.png",
+        "response_time": 0.002508878707885742,
+        "pokemon": "Regice"
+    },
+    {
+        "file_name": "regidrago.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Regidrago"
+    },
+    {
+        "file_name": "regieleki.png",
+        "response_time": 0.0025298595428466797,
+        "pokemon": "Regieleki"
+    },
+    {
+        "file_name": "regigigas.png",
+        "response_time": 0.0020225048065185547,
+        "pokemon": "Regigigas"
+    },
+    {
+        "file_name": "regirock.png",
+        "response_time": 0.0025115013122558594,
+        "pokemon": "Regirock"
+    },
+    {
+        "file_name": "registeel.png",
+        "response_time": 0.002000570297241211,
+        "pokemon": "Registeel"
+    },
+    {
+        "file_name": "relicanth.png",
+        "response_time": 0.0030145645141601562,
+        "pokemon": "Relicanth"
+    },
+    {
+        "file_name": "rellor.png",
+        "response_time": 0.0020101070404052734,
+        "pokemon": "Kabuto"
+    },
+    {
+        "file_name": "remoraid.png",
+        "response_time": 0.0025212764739990234,
+        "pokemon": "Remoraid"
+    },
+    {
+        "file_name": "reshiram.png",
+        "response_time": 0.002508878707885742,
+        "pokemon": "Reshiram"
+    },
+    {
+        "file_name": "reuniclus.png",
+        "response_time": 0.0020003318786621094,
+        "pokemon": "Reuniclus"
+    },
+    {
+        "file_name": "revavroom.png",
+        "response_time": 0.00402379035949707,
+        "pokemon": "Palkia"
+    },
+    {
+        "file_name": "rhydon.png",
+        "response_time": 0.002515554428100586,
+        "pokemon": "Rhydon"
+    },
+    {
+        "file_name": "rhyhorn.png",
+        "response_time": 0.004036664962768555,
+        "pokemon": "Rhyhorn"
+    },
+    {
+        "file_name": "rhyperior.png",
+        "response_time": 0.0020003318786621094,
+        "pokemon": "Rhyperior"
+    },
+    {
+        "file_name": "ribombee.png",
+        "response_time": 0.0030066967010498047,
+        "pokemon": "Ribombee"
+    },
+    {
+        "file_name": "rillaboom-gmax.png",
+        "response_time": 0.0030117034912109375,
+        "pokemon": "Sandaconda"
+    },
+    {
+        "file_name": "rillaboom.png",
+        "response_time": 0.003014087677001953,
+        "pokemon": "Rillaboom"
+    },
+    {
+        "file_name": "riolu.png",
+        "response_time": 0.0030214786529541016,
+        "pokemon": "Riolu"
+    },
+    {
+        "file_name": "roaring-moon.png",
+        "response_time": 0.002531766891479492,
+        "pokemon": "Braviary"
+    },
+    {
+        "file_name": "rockruff.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Rockruff"
+    },
+    {
+        "file_name": "roggenrola.png",
+        "response_time": 0.002506256103515625,
+        "pokemon": "Roggenrola"
+    },
+    {
+        "file_name": "rolycoly.png",
+        "response_time": 0.0029981136322021484,
+        "pokemon": "Rolycoly"
+    },
+    {
+        "file_name": "rookidee.png",
+        "response_time": 0.00301361083984375,
+        "pokemon": "Rookidee"
+    },
+    {
+        "file_name": "roselia.png",
+        "response_time": 0.0025250911712646484,
+        "pokemon": "Roselia"
+    },
+    {
+        "file_name": "roserade.png",
+        "response_time": 0.0036170482635498047,
+        "pokemon": "Roserade"
+    },
+    {
+        "file_name": "rotom-fan.png",
+        "response_time": 0.0025093555450439453,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rotom-frost.png",
+        "response_time": 0.0030040740966796875,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rotom-heat.png",
+        "response_time": 0.003000020980834961,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rotom-mow.png",
+        "response_time": 0.0030014514923095703,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rotom-wash.png",
+        "response_time": 0.002009153366088867,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rotom.png",
+        "response_time": 0.0030913352966308594,
+        "pokemon": "Rotom"
+    },
+    {
+        "file_name": "rowlet.png",
+        "response_time": 0.0030014514923095703,
+        "pokemon": "Rowlet"
+    },
+    {
+        "file_name": "rufflet.png",
+        "response_time": 0.003999471664428711,
+        "pokemon": "Rufflet"
+    },
+    {
+        "file_name": "runerigus.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Runerigus"
+    },
+    {
+        "file_name": "sableye-mega.png",
+        "response_time": 0.0030159950256347656,
+        "pokemon": "Sableye"
+    },
+    {
+        "file_name": "sableye.png",
+        "response_time": 0.002023935317993164,
+        "pokemon": "Sableye"
+    },
+    {
+        "file_name": "salamence-mega.png",
+        "response_time": 0.004025936126708984,
+        "pokemon": "Salamence"
+    },
+    {
+        "file_name": "salamence.png",
+        "response_time": 0.0020041465759277344,
+        "pokemon": "Salamence"
+    },
+    {
+        "file_name": "salandit.png",
+        "response_time": 0.004006624221801758,
+        "pokemon": "Salandit"
+    },
+    {
+        "file_name": "salazzle.png",
+        "response_time": 0.0025305747985839844,
+        "pokemon": "Salazzle"
+    },
+    {
+        "file_name": "samurott-hisui.png",
+        "response_time": 0.002968311309814453,
+        "pokemon": "Ho-oh"
+    },
+    {
+        "file_name": "samurott.png",
+        "response_time": 0.002505064010620117,
+        "pokemon": "Samurott"
+    },
+    {
+        "file_name": "sandaconda-gmax.png",
+        "response_time": 0.0030059814453125,
+        "pokemon": "Urshifu"
+    },
+    {
+        "file_name": "sandaconda.png",
+        "response_time": 0.0019981861114501953,
+        "pokemon": "Sandaconda"
+    },
+    {
+        "file_name": "sandile.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Sandile"
+    },
+    {
+        "file_name": "sandshrew-alola.png",
+        "response_time": 0.0030126571655273438,
+        "pokemon": "Sandshrew"
+    },
+    {
+        "file_name": "sandshrew.png",
+        "response_time": 0.0030527114868164062,
+        "pokemon": "Sandshrew"
+    },
+    {
+        "file_name": "sandslash-alola.png",
+        "response_time": 0.0015149116516113281,
+        "pokemon": "Sandslash"
+    },
+    {
+        "file_name": "sandslash.png",
+        "response_time": 0.0035080909729003906,
+        "pokemon": "Sandslash"
+    },
+    {
+        "file_name": "sandy-shocks.png",
+        "response_time": 0.002997875213623047,
+        "pokemon": "Magneton"
+    },
+    {
+        "file_name": "sandygast.png",
+        "response_time": 0.003000974655151367,
+        "pokemon": "Sandygast"
+    },
+    {
+        "file_name": "sawk.png",
+        "response_time": 0.0020112991333007812,
+        "pokemon": "Sawk"
+    },
+    {
+        "file_name": "sawsbuck.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Sawsbuck"
+    },
+    {
+        "file_name": "scatterbug.png",
+        "response_time": 0.0020034313201904297,
+        "pokemon": "Scatterbug"
+    },
+    {
+        "file_name": "sceptile-mega.png",
+        "response_time": 0.0029973983764648438,
+        "pokemon": "Sceptile"
+    },
+    {
+        "file_name": "sceptile.png",
+        "response_time": 0.003552675247192383,
+        "pokemon": "Sceptile"
+    },
+    {
+        "file_name": "scizor-mega.png",
+        "response_time": 0.0015120506286621094,
+        "pokemon": "Scizor"
+    },
+    {
+        "file_name": "scizor.png",
+        "response_time": 0.0029976367950439453,
+        "pokemon": "Scizor"
+    },
+    {
+        "file_name": "scolipede.png",
+        "response_time": 0.002996206283569336,
+        "pokemon": "Scolipede"
+    },
+    {
+        "file_name": "scorbunny.png",
+        "response_time": 0.003522634506225586,
+        "pokemon": "Scorbunny"
+    },
+    {
+        "file_name": "scovillain.png",
+        "response_time": 0.0025267601013183594,
+        "pokemon": "Trapinch"
+    },
+    {
+        "file_name": "scrafty.png",
+        "response_time": 0.0035033226013183594,
+        "pokemon": "Scrafty"
+    },
+    {
+        "file_name": "scraggy.png",
+        "response_time": 0.0029973983764648438,
+        "pokemon": "Scraggy"
+    },
+    {
+        "file_name": "scream-tail.png",
+        "response_time": 0.0030050277709960938,
+        "pokemon": "Jigglypuff"
+    },
+    {
+        "file_name": "scyther.png",
+        "response_time": 0.003521442413330078,
+        "pokemon": "Scyther"
+    },
+    {
+        "file_name": "seadra.png",
+        "response_time": 0.0025136470794677734,
+        "pokemon": "Seadra"
+    },
+    {
+        "file_name": "seaking.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Seaking"
+    },
+    {
+        "file_name": "sealeo.png",
+        "response_time": 0.0020041465759277344,
+        "pokemon": "Sealeo"
+    },
+    {
+        "file_name": "seedot.png",
+        "response_time": 0.0030019283294677734,
+        "pokemon": "Seedot"
+    },
+    {
+        "file_name": "seel.png",
+        "response_time": 0.0025169849395751953,
+        "pokemon": "Seel"
+    },
+    {
+        "file_name": "seismitoad.png",
+        "response_time": 0.0015094280242919922,
+        "pokemon": "Seismitoad"
+    },
+    {
+        "file_name": "sentret.png",
+        "response_time": 0.003001689910888672,
+        "pokemon": "Sentret"
+    },
+    {
+        "file_name": "serperior.png",
+        "response_time": 0.003002643585205078,
+        "pokemon": "Serperior"
+    },
+    {
+        "file_name": "servine.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Servine"
+    },
+    {
+        "file_name": "seviper.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Seviper"
+    },
+    {
+        "file_name": "sewaddle.png",
+        "response_time": 0.0020012855529785156,
+        "pokemon": "Sewaddle"
+    },
+    {
+        "file_name": "sharpedo-mega.png",
+        "response_time": 0.003996849060058594,
+        "pokemon": "Sharpedo"
+    },
+    {
+        "file_name": "sharpedo.png",
+        "response_time": 0.0020067691802978516,
+        "pokemon": "Sharpedo"
+    },
+    {
+        "file_name": "shaymin-land.png",
+        "response_time": 0.003535032272338867,
+        "pokemon": "Shaymin"
+    },
+    {
+        "file_name": "shaymin-sky.png",
+        "response_time": 0.003023862838745117,
+        "pokemon": "Shaymin"
+    },
+    {
+        "file_name": "shedinja.png",
+        "response_time": 0.0035247802734375,
+        "pokemon": "Shedinja"
+    },
+    {
+        "file_name": "shelgon.png",
+        "response_time": 0.0020024776458740234,
+        "pokemon": "Shelgon"
+    },
+    {
+        "file_name": "shellder.png",
+        "response_time": 0.0029935836791992188,
+        "pokemon": "Shellder"
+    },
+    {
+        "file_name": "shellos.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Shellos"
+    },
+    {
+        "file_name": "shelmet.png",
+        "response_time": 0.0035419464111328125,
+        "pokemon": "Shelmet"
+    },
+    {
+        "file_name": "shieldon.png",
+        "response_time": 0.0025217533111572266,
+        "pokemon": "Shieldon"
+    },
+    {
+        "file_name": "shiftry.png",
+        "response_time": 0.004003286361694336,
+        "pokemon": "Shiftry"
+    },
+    {
+        "file_name": "shiinotic.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Shiinotic"
+    },
+    {
+        "file_name": "shinx.png",
+        "response_time": 0.002529144287109375,
+        "pokemon": "Shinx"
+    },
+    {
+        "file_name": "shroodle.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Grimer"
+    },
+    {
+        "file_name": "shroomish.png",
+        "response_time": 0.0025081634521484375,
+        "pokemon": "Shroomish"
+    },
+    {
+        "file_name": "shuckle.png",
+        "response_time": 0.0020036697387695312,
+        "pokemon": "Shuckle"
+    },
+    {
+        "file_name": "shuppet.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Shuppet"
+    },
+    {
+        "file_name": "sigilyph.png",
+        "response_time": 0.003030061721801758,
+        "pokemon": "Sigilyph"
+    },
+    {
+        "file_name": "silcoon.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Silcoon"
+    },
+    {
+        "file_name": "silicobra.png",
+        "response_time": 0.002998828887939453,
+        "pokemon": "Silicobra"
+    },
+    {
+        "file_name": "silvally.png",
+        "response_time": 0.002965211868286133,
+        "pokemon": "Silvally"
+    },
+    {
+        "file_name": "simipour.png",
+        "response_time": 0.00354766845703125,
+        "pokemon": "Simipour"
+    },
+    {
+        "file_name": "simisage.png",
+        "response_time": 0.0015189647674560547,
+        "pokemon": "Simisage"
+    },
+    {
+        "file_name": "simisear.png",
+        "response_time": 0.004022359848022461,
+        "pokemon": "Simisear"
+    },
+    {
+        "file_name": "sinistea.png",
+        "response_time": 0.001999378204345703,
+        "pokemon": "Sinistea"
+    },
+    {
+        "file_name": "sirfetchd.png",
+        "response_time": 0.0029973983764648438,
+        "pokemon": "Sirfetch'd"
+    },
+    {
+        "file_name": "sizzlipede.png",
+        "response_time": 0.002511739730834961,
+        "pokemon": "Sizzlipede"
+    },
+    {
+        "file_name": "skarmory.png",
+        "response_time": 0.004527568817138672,
+        "pokemon": "Skarmory"
+    },
+    {
+        "file_name": "skeledirge.png",
+        "response_time": 0.0020110607147216797,
+        "pokemon": "Heatran"
+    },
+    {
+        "file_name": "skiddo.png",
+        "response_time": 0.003003835678100586,
+        "pokemon": "Skiddo"
+    },
+    {
+        "file_name": "skiploom.png",
+        "response_time": 0.002004384994506836,
+        "pokemon": "Skiploom"
+    },
+    {
+        "file_name": "skitty.png",
+        "response_time": 0.0020132064819335938,
+        "pokemon": "Skitty"
+    },
+    {
+        "file_name": "skorupi.png",
+        "response_time": 0.0035190582275390625,
+        "pokemon": "Skorupi"
+    },
+    {
+        "file_name": "skrelp.png",
+        "response_time": 0.003011941909790039,
+        "pokemon": "Skrelp"
+    },
+    {
+        "file_name": "skuntank.png",
+        "response_time": 0.0035386085510253906,
+        "pokemon": "Skuntank"
+    },
+    {
+        "file_name": "skwovet.png",
+        "response_time": 0.00201416015625,
+        "pokemon": "Skwovet"
+    },
+    {
+        "file_name": "slaking.png",
+        "response_time": 0.003530263900756836,
+        "pokemon": "Slaking"
+    },
+    {
+        "file_name": "slakoth.png",
+        "response_time": 0.0020029544830322266,
+        "pokemon": "Slakoth"
+    },
+    {
+        "file_name": "sliggoo.png",
+        "response_time": 0.0025148391723632812,
+        "pokemon": "Sliggoo"
+    },
+    {
+        "file_name": "slither-wing.png",
+        "response_time": 0.0030126571655273438,
+        "pokemon": "Tyrantrum"
+    },
+    {
+        "file_name": "slowbro-galar.png",
+        "response_time": 0.0025234222412109375,
+        "pokemon": "Mr. Mime"
+    },
+    {
+        "file_name": "slowbro-mega.png",
+        "response_time": 0.002000093460083008,
+        "pokemon": "Slowbro"
+    },
+    {
+        "file_name": "slowbro.png",
+        "response_time": 0.0030090808868408203,
+        "pokemon": "Slowbro"
+    },
+    {
+        "file_name": "slowking-galar.png",
+        "response_time": 0.0025119781494140625,
+        "pokemon": "Linoone"
+    },
+    {
+        "file_name": "slowking.png",
+        "response_time": 0.0025191307067871094,
+        "pokemon": "Slowking"
+    },
+    {
+        "file_name": "slowpoke-galar.png",
+        "response_time": 0.002519369125366211,
+        "pokemon": "Weezing"
+    },
+    {
+        "file_name": "slowpoke.png",
+        "response_time": 0.0020101070404052734,
+        "pokemon": "Slowpoke"
+    },
+    {
+        "file_name": "slugma.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Slugma"
+    },
+    {
+        "file_name": "slurpuff.png",
+        "response_time": 0.002515077590942383,
+        "pokemon": "Slurpuff"
+    },
+    {
+        "file_name": "smeargle.png",
+        "response_time": 0.0035097599029541016,
+        "pokemon": "Smeargle"
+    },
+    {
+        "file_name": "smoliv.png",
+        "response_time": 0.003004789352416992,
+        "pokemon": "Bellsprout"
+    },
+    {
+        "file_name": "smoochum.png",
+        "response_time": 0.0025131702423095703,
+        "pokemon": "Smoochum"
+    },
+    {
+        "file_name": "sneasel-hisui.png",
+        "response_time": 0.0025200843811035156,
+        "pokemon": "Avalugg"
+    },
+    {
+        "file_name": "sneasel.png",
+        "response_time": 0.002529144287109375,
+        "pokemon": "Sneasel"
+    },
+    {
+        "file_name": "sneasler.png",
+        "response_time": 0.0015118122100830078,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "snivy.png",
+        "response_time": 0.003006458282470703,
+        "pokemon": "Snivy"
+    },
+    {
+        "file_name": "snom.png",
+        "response_time": 0.0030105113983154297,
+        "pokemon": "Snom"
+    },
+    {
+        "file_name": "snorlax-gmax.png",
+        "response_time": 0.0035178661346435547,
+        "pokemon": "Coalossal"
+    },
+    {
+        "file_name": "snorlax.png",
+        "response_time": 0.00201416015625,
+        "pokemon": "Snorlax"
+    },
+    {
+        "file_name": "snorunt.png",
+        "response_time": 0.003015279769897461,
+        "pokemon": "Snorunt"
+    },
+    {
+        "file_name": "snover.png",
+        "response_time": 0.0030028820037841797,
+        "pokemon": "Snover"
+    },
+    {
+        "file_name": "snubbull.png",
+        "response_time": 0.002007722854614258,
+        "pokemon": "Snubbull"
+    },
+    {
+        "file_name": "sobble.png",
+        "response_time": 0.0024573802947998047,
+        "pokemon": "Sobble"
+    },
+    {
+        "file_name": "solgaleo.png",
+        "response_time": 0.0025124549865722656,
+        "pokemon": "Solgaleo"
+    },
+    {
+        "file_name": "solosis.png",
+        "response_time": 0.002510547637939453,
+        "pokemon": "Solosis"
+    },
+    {
+        "file_name": "solrock.png",
+        "response_time": 0.002507925033569336,
+        "pokemon": "Solrock"
+    },
+    {
+        "file_name": "spearow.png",
+        "response_time": 0.0030965805053710938,
+        "pokemon": "Spearow"
+    },
+    {
+        "file_name": "spectrier.png",
+        "response_time": 0.0025184154510498047,
+        "pokemon": "Spectrier"
+    },
+    {
+        "file_name": "spewpa.png",
+        "response_time": 0.0035164356231689453,
+        "pokemon": "Spewpa"
+    },
+    {
+        "file_name": "spheal.png",
+        "response_time": 0.0029997825622558594,
+        "pokemon": "Spheal"
+    },
+    {
+        "file_name": "spidops.png",
+        "response_time": 0.003013134002685547,
+        "pokemon": "Chesnaught"
+    },
+    {
+        "file_name": "spinarak.png",
+        "response_time": 0.0020160675048828125,
+        "pokemon": "Spinarak"
+    },
+    {
+        "file_name": "spinda.png",
+        "response_time": 0.005028486251831055,
+        "pokemon": "Spinda"
+    },
+    {
+        "file_name": "spiritomb.png",
+        "response_time": 0.0035479068756103516,
+        "pokemon": "Spiritomb"
+    },
+    {
+        "file_name": "spoink.png",
+        "response_time": 0.003989458084106445,
+        "pokemon": "Spoink"
+    },
+    {
+        "file_name": "sprigatito.png",
+        "response_time": 0.0020110607147216797,
+        "pokemon": "Axew"
+    },
+    {
+        "file_name": "spritzee.png",
+        "response_time": 0.0050275325775146484,
+        "pokemon": "Spritzee"
+    },
+    {
+        "file_name": "squawkabilly.png",
+        "response_time": 0.002515077590942383,
+        "pokemon": "Dartrix"
+    },
+    {
+        "file_name": "squirtle.png",
+        "response_time": 0.0035276412963867188,
+        "pokemon": "Squirtle"
+    },
+    {
+        "file_name": "stakataka.png",
+        "response_time": 0.0015156269073486328,
+        "pokemon": "Stakataka"
+    },
+    {
+        "file_name": "stantler.png",
+        "response_time": 0.003511667251586914,
+        "pokemon": "Stantler"
+    },
+    {
+        "file_name": "staraptor.png",
+        "response_time": 0.002010822296142578,
+        "pokemon": "Staraptor"
+    },
+    {
+        "file_name": "staravia.png",
+        "response_time": 0.0035283565521240234,
+        "pokemon": "Staravia"
+    },
+    {
+        "file_name": "starly.png",
+        "response_time": 0.0020096302032470703,
+        "pokemon": "Starly"
+    },
+    {
+        "file_name": "starmie.png",
+        "response_time": 0.0025076866149902344,
+        "pokemon": "Starmie"
+    },
+    {
+        "file_name": "staryu.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Staryu"
+    },
+    {
+        "file_name": "steelix-mega.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Steelix"
+    },
+    {
+        "file_name": "steelix.png",
+        "response_time": 0.0025272369384765625,
+        "pokemon": "Steelix"
+    },
+    {
+        "file_name": "steenee.png",
+        "response_time": 0.0025217533111572266,
+        "pokemon": "Steenee"
+    },
+    {
+        "file_name": "stonjourner.png",
+        "response_time": 0.003520488739013672,
+        "pokemon": "Stonjourner"
+    },
+    {
+        "file_name": "stoutland.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Stoutland"
+    },
+    {
+        "file_name": "stufful.png",
+        "response_time": 0.0030248165130615234,
+        "pokemon": "Stufful"
+    },
+    {
+        "file_name": "stunfisk.png",
+        "response_time": 0.0020134449005126953,
+        "pokemon": "Stunfisk"
+    },
+    {
+        "file_name": "stunky.png",
+        "response_time": 0.004541158676147461,
+        "pokemon": "Stunky"
+    },
+    {
+        "file_name": "sudowoodo.png",
+        "response_time": 0.0030083656311035156,
+        "pokemon": "Sudowoodo"
+    },
+    {
+        "file_name": "suicune.png",
+        "response_time": 0.0035734176635742188,
+        "pokemon": "Suicune"
+    },
+    {
+        "file_name": "sunflora.png",
+        "response_time": 0.0025022029876708984,
+        "pokemon": "Sunflora"
+    },
+    {
+        "file_name": "sunkern.png",
+        "response_time": 0.0035190582275390625,
+        "pokemon": "Sunkern"
+    },
+    {
+        "file_name": "surskit.png",
+        "response_time": 0.0020110607147216797,
+        "pokemon": "Surskit"
+    },
+    {
+        "file_name": "swablu.png",
+        "response_time": 0.0030145645141601562,
+        "pokemon": "Swablu"
+    },
+    {
+        "file_name": "swadloon.png",
+        "response_time": 0.0020127296447753906,
+        "pokemon": "Swadloon"
+    },
+    {
+        "file_name": "swalot.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Swalot"
+    },
+    {
+        "file_name": "swampert-mega.png",
+        "response_time": 0.002005338668823242,
+        "pokemon": "Swampert"
+    },
+    {
+        "file_name": "swampert.png",
+        "response_time": 0.0025148391723632812,
+        "pokemon": "Swampert"
+    },
+    {
+        "file_name": "swanna.png",
+        "response_time": 0.0025141239166259766,
+        "pokemon": "Swanna"
+    },
+    {
+        "file_name": "swellow.png",
+        "response_time": 0.002010345458984375,
+        "pokemon": "Swellow"
+    },
+    {
+        "file_name": "swinub.png",
+        "response_time": 0.0035347938537597656,
+        "pokemon": "Swinub"
+    },
+    {
+        "file_name": "swirlix.png",
+        "response_time": 0.002538442611694336,
+        "pokemon": "Swirlix"
+    },
+    {
+        "file_name": "swoobat.png",
+        "response_time": 0.005029439926147461,
+        "pokemon": "Swoobat"
+    },
+    {
+        "file_name": "sylveon.png",
+        "response_time": 0.0030012130737304688,
+        "pokemon": "Sylveon"
+    },
+    {
+        "file_name": "tadbulb.png",
+        "response_time": 0.0030176639556884766,
+        "pokemon": "Bellsprout"
+    },
+    {
+        "file_name": "taillow.png",
+        "response_time": 0.0035445690155029297,
+        "pokemon": "Taillow"
+    },
+    {
+        "file_name": "talonflame.png",
+        "response_time": 0.0050394535064697266,
+        "pokemon": "Talonflame"
+    },
+    {
+        "file_name": "tandemaus.png",
+        "response_time": 0.002535104751586914,
+        "pokemon": "Exeggcute"
+    },
+    {
+        "file_name": "tangela.png",
+        "response_time": 0.004042625427246094,
+        "pokemon": "Tangela"
+    },
+    {
+        "file_name": "tangrowth.png",
+        "response_time": 0.002511739730834961,
+        "pokemon": "Tangrowth"
+    },
+    {
+        "file_name": "tapu-bulu.png",
+        "response_time": 0.004022121429443359,
+        "pokemon": "Tapu Bulu"
+    },
+    {
+        "file_name": "tapu-fini.png",
+        "response_time": 0.0035283565521240234,
+        "pokemon": "Tapu Fini"
+    },
+    {
+        "file_name": "tapu-koko.png",
+        "response_time": 0.004023551940917969,
+        "pokemon": "Tapu Koko"
+    },
+    {
+        "file_name": "tapu-lele.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Tapu Lele"
+    },
+    {
+        "file_name": "tarountula.png",
+        "response_time": 0.004036426544189453,
+        "pokemon": "Arctozolt"
+    },
+    {
+        "file_name": "tatsugiri.png",
+        "response_time": 0.0025060176849365234,
+        "pokemon": "Slowpoke"
+    },
+    {
+        "file_name": "tauros.png",
+        "response_time": 0.0030107498168945312,
+        "pokemon": "Tauros"
+    },
+    {
+        "file_name": "teddiursa.png",
+        "response_time": 0.003019094467163086,
+        "pokemon": "Teddiursa"
+    },
+    {
+        "file_name": "tentacool.png",
+        "response_time": 0.0050449371337890625,
+        "pokemon": "Tentacool"
+    },
+    {
+        "file_name": "tentacruel.png",
+        "response_time": 0.002521514892578125,
+        "pokemon": "Tentacruel"
+    },
+    {
+        "file_name": "tepig.png",
+        "response_time": 0.005018472671508789,
+        "pokemon": "Tepig"
+    },
+    {
+        "file_name": "terrakion.png",
+        "response_time": 0.0019884109497070312,
+        "pokemon": "Terrakion"
+    },
+    {
+        "file_name": "thievul.png",
+        "response_time": 0.003998279571533203,
+        "pokemon": "Thievul"
+    },
+    {
+        "file_name": "throh.png",
+        "response_time": 0.003025054931640625,
+        "pokemon": "Throh"
+    },
+    {
+        "file_name": "thundurus-incarnate.png",
+        "response_time": 0.003536224365234375,
+        "pokemon": "Thundurus"
+    },
+    {
+        "file_name": "thundurus-therian.png",
+        "response_time": 0.002470731735229492,
+        "pokemon": "Thundurus"
+    },
+    {
+        "file_name": "thwackey.png",
+        "response_time": 0.0025250911712646484,
+        "pokemon": "Thwackey"
+    },
+    {
+        "file_name": "timburr.png",
+        "response_time": 0.0025234222412109375,
+        "pokemon": "Timburr"
+    },
+    {
+        "file_name": "ting-lu.png",
+        "response_time": 0.0025053024291992188,
+        "pokemon": "Terrakion"
+    },
+    {
+        "file_name": "tinkatink.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Alomomola"
+    },
+    {
+        "file_name": "tinkaton.png",
+        "response_time": 0.0025482177734375,
+        "pokemon": "Granbull"
+    },
+    {
+        "file_name": "tinkatuff.png",
+        "response_time": 0.005054473876953125,
+        "pokemon": "Flaaffy"
+    },
+    {
+        "file_name": "tirtouga.png",
+        "response_time": 0.002002239227294922,
+        "pokemon": "Tirtouga"
+    },
+    {
+        "file_name": "toedscool.png",
+        "response_time": 0.004021883010864258,
+        "pokemon": "Tentacool"
+    },
+    {
+        "file_name": "toedscruel.png",
+        "response_time": 0.003010272979736328,
+        "pokemon": "Tentacruel"
+    },
+    {
+        "file_name": "togedemaru.png",
+        "response_time": 0.003023862838745117,
+        "pokemon": "Togedemaru"
+    },
+    {
+        "file_name": "togekiss.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Togekiss"
+    },
+    {
+        "file_name": "togepi.png",
+        "response_time": 0.004042387008666992,
+        "pokemon": "Togepi"
+    },
+    {
+        "file_name": "togetic.png",
+        "response_time": 0.0020029544830322266,
+        "pokemon": "Togetic"
+    },
+    {
+        "file_name": "torchic.png",
+        "response_time": 0.00402522087097168,
+        "pokemon": "Torchic"
+    },
+    {
+        "file_name": "torkoal.png",
+        "response_time": 0.003011465072631836,
+        "pokemon": "Torkoal"
+    },
+    {
+        "file_name": "tornadus-incarnate.png",
+        "response_time": 0.002941608428955078,
+        "pokemon": "Tornadus"
+    },
+    {
+        "file_name": "tornadus-therian.png",
+        "response_time": 0.0025205612182617188,
+        "pokemon": "Tornadus"
+    },
+    {
+        "file_name": "torracat.png",
+        "response_time": 0.0025169849395751953,
+        "pokemon": "Torracat"
+    },
+    {
+        "file_name": "torterra.png",
+        "response_time": 0.002519845962524414,
+        "pokemon": "Torterra"
+    },
+    {
+        "file_name": "totodile.png",
+        "response_time": 0.002508401870727539,
+        "pokemon": "Totodile"
+    },
+    {
+        "file_name": "toucannon.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Toucannon"
+    },
+    {
+        "file_name": "toxapex.png",
+        "response_time": 0.0030221939086914062,
+        "pokemon": "Toxapex"
+    },
+    {
+        "file_name": "toxel.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Toxel"
+    },
+    {
+        "file_name": "toxicroak.png",
+        "response_time": 0.004041433334350586,
+        "pokemon": "Toxicroak"
+    },
+    {
+        "file_name": "toxtricity-amped-gmax.png",
+        "response_time": 0.004523754119873047,
+        "pokemon": "Urshifu"
+    },
+    {
+        "file_name": "toxtricity-amped.png",
+        "response_time": 0.0044786930084228516,
+        "pokemon": "Toxel"
+    },
+    {
+        "file_name": "toxtricity-low-key-gmax.png",
+        "response_time": 0.0030214786529541016,
+        "pokemon": "Druddigon"
+    },
+    {
+        "file_name": "tranquill.png",
+        "response_time": 0.0025217533111572266,
+        "pokemon": "Tranquill"
+    },
+    {
+        "file_name": "trapinch.png",
+        "response_time": 0.005060911178588867,
+        "pokemon": "Trapinch"
+    },
+    {
+        "file_name": "treecko.png",
+        "response_time": 0.0030851364135742188,
+        "pokemon": "Treecko"
+    },
+    {
+        "file_name": "trevenant.png",
+        "response_time": 0.003104686737060547,
+        "pokemon": "Trevenant"
+    },
+    {
+        "file_name": "tropius.png",
+        "response_time": 0.0030379295349121094,
+        "pokemon": "Tropius"
+    },
+    {
+        "file_name": "trubbish.png",
+        "response_time": 0.003002166748046875,
+        "pokemon": "Trubbish"
+    },
+    {
+        "file_name": "trumbeak.png",
+        "response_time": 0.0029997825622558594,
+        "pokemon": "Trumbeak"
+    },
+    {
+        "file_name": "tsareena.png",
+        "response_time": 0.0035333633422851562,
+        "pokemon": "Tsareena"
+    },
+    {
+        "file_name": "turtonator.png",
+        "response_time": 0.0035359859466552734,
+        "pokemon": "Turtonator"
+    },
+    {
+        "file_name": "turtwig.png",
+        "response_time": 0.002005338668823242,
+        "pokemon": "Turtwig"
+    },
+    {
+        "file_name": "tympole.png",
+        "response_time": 0.0030078887939453125,
+        "pokemon": "Tympole"
+    },
+    {
+        "file_name": "tynamo.png",
+        "response_time": 0.0030355453491210938,
+        "pokemon": "Tynamo"
+    },
+    {
+        "file_name": "type-null.png",
+        "response_time": 0.003016948699951172,
+        "pokemon": "Type: Null"
+    },
+    {
+        "file_name": "typhlosion-hisui.png",
+        "response_time": 0.0020008087158203125,
+        "pokemon": "Sliggoo"
+    },
+    {
+        "file_name": "typhlosion.png",
+        "response_time": 0.001995086669921875,
+        "pokemon": "Typhlosion"
+    },
+    {
+        "file_name": "tyranitar-mega.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Tyranitar"
+    },
+    {
+        "file_name": "tyranitar.png",
+        "response_time": 0.0035457611083984375,
+        "pokemon": "Tyranitar"
+    },
+    {
+        "file_name": "tyrantrum.png",
+        "response_time": 0.0030028820037841797,
+        "pokemon": "Tyrantrum"
+    },
+    {
+        "file_name": "tyrogue.png",
+        "response_time": 0.003003835678100586,
+        "pokemon": "Tyrogue"
+    },
+    {
+        "file_name": "tyrunt.png",
+        "response_time": 0.003011465072631836,
+        "pokemon": "Tyrunt"
+    },
+    {
+        "file_name": "umbreon.png",
+        "response_time": 0.0015120506286621094,
+        "pokemon": "Umbreon"
+    },
+    {
+        "file_name": "unfezant.png",
+        "response_time": 0.0029935836791992188,
+        "pokemon": "Unfezant"
+    },
+    {
+        "file_name": "unown.png",
+        "response_time": 0.0029935836791992188,
+        "pokemon": "Unown"
+    },
+    {
+        "file_name": "ursaluna.png",
+        "response_time": 0.003015756607055664,
+        "pokemon": "Slaking"
+    },
+    {
+        "file_name": "ursaring.png",
+        "response_time": 0.002040386199951172,
+        "pokemon": "Ursaring"
+    },
+    {
+        "file_name": "urshifu-rapid-strike-gmax.png",
+        "response_time": 0.001508474349975586,
+        "pokemon": "Mewtwo"
+    },
+    {
+        "file_name": "urshifu-rapid-strike.png",
+        "response_time": 0.0030007362365722656,
+        "pokemon": "Sudowoodo"
+    },
+    {
+        "file_name": "urshifu-single-strike-gmax.png",
+        "response_time": 0.0020051002502441406,
+        "pokemon": "Qwilfish"
+    },
+    {
+        "file_name": "urshifu-single-strike.png",
+        "response_time": 0.0019991397857666016,
+        "pokemon": "Urshifu"
+    },
+    {
+        "file_name": "uxie.png",
+        "response_time": 0.0025415420532226562,
+        "pokemon": "Uxie"
+    },
+    {
+        "file_name": "vanillish.png",
+        "response_time": 0.002504110336303711,
+        "pokemon": "Vanillish"
+    },
+    {
+        "file_name": "vanillite.png",
+        "response_time": 0.0039980411529541016,
+        "pokemon": "Vanillite"
+    },
+    {
+        "file_name": "vanilluxe.png",
+        "response_time": 0.003002166748046875,
+        "pokemon": "Vanilluxe"
+    },
+    {
+        "file_name": "vaporeon.png",
+        "response_time": 0.00395965576171875,
+        "pokemon": "Vaporeon"
+    },
+    {
+        "file_name": "varoom.png",
+        "response_time": 0.0029554367065429688,
+        "pokemon": "Dusclops"
+    },
+    {
+        "file_name": "veluza.png",
+        "response_time": 0.0035245418548583984,
+        "pokemon": "Sharpedo"
+    },
+    {
+        "file_name": "venipede.png",
+        "response_time": 0.003095865249633789,
+        "pokemon": "Venipede"
+    },
+    {
+        "file_name": "venomoth.png",
+        "response_time": 0.0025055408477783203,
+        "pokemon": "Venomoth"
+    },
+    {
+        "file_name": "venonat.png",
+        "response_time": 0.0020017623901367188,
+        "pokemon": "Venonat"
+    },
+    {
+        "file_name": "venusaur-gmax.png",
+        "response_time": 0.0030059814453125,
+        "pokemon": "Lapras"
+    },
+    {
+        "file_name": "venusaur-mega.png",
+        "response_time": 0.002992391586303711,
+        "pokemon": "Venusaur"
+    },
+    {
+        "file_name": "venusaur.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Venusaur"
+    },
+    {
+        "file_name": "vespiquen.png",
+        "response_time": 0.003525257110595703,
+        "pokemon": "Vespiquen"
+    },
+    {
+        "file_name": "vibrava.png",
+        "response_time": 0.0025146007537841797,
+        "pokemon": "Vibrava"
+    },
+    {
+        "file_name": "victini.png",
+        "response_time": 0.00350189208984375,
+        "pokemon": "Victini"
+    },
+    {
+        "file_name": "victreebel.png",
+        "response_time": 0.001998424530029297,
+        "pokemon": "Victreebel"
+    },
+    {
+        "file_name": "vigoroth.png",
+        "response_time": 0.0019974708557128906,
+        "pokemon": "Vigoroth"
+    },
+    {
+        "file_name": "vikavolt.png",
+        "response_time": 0.002520322799682617,
+        "pokemon": "Vikavolt"
+    },
+    {
+        "file_name": "vileplume.png",
+        "response_time": 0.0030617713928222656,
+        "pokemon": "Vileplume"
+    },
+    {
+        "file_name": "virizion.png",
+        "response_time": 0.003000020980834961,
+        "pokemon": "Virizion"
+    },
+    {
+        "file_name": "vivillon.png",
+        "response_time": 0.0029914379119873047,
+        "pokemon": "Vivillon"
+    },
+    {
+        "file_name": "volbeat.png",
+        "response_time": 0.003016948699951172,
+        "pokemon": "Volbeat"
+    },
+    {
+        "file_name": "volcanion.png",
+        "response_time": 0.0025217533111572266,
+        "pokemon": "Volcanion"
+    },
+    {
+        "file_name": "volcarona.png",
+        "response_time": 0.003526926040649414,
+        "pokemon": "Volcarona"
+    },
+    {
+        "file_name": "voltorb-hisui.png",
+        "response_time": 0.0025167465209960938,
+        "pokemon": "Absol"
+    },
+    {
+        "file_name": "voltorb.png",
+        "response_time": 0.003511667251586914,
+        "pokemon": "Voltorb"
+    },
+    {
+        "file_name": "vullaby.png",
+        "response_time": 0.0020036697387695312,
+        "pokemon": "Vullaby"
+    },
+    {
+        "file_name": "vulpix-alola.png",
+        "response_time": 0.0030028820037841797,
+        "pokemon": "Swanna"
+    },
+    {
+        "file_name": "vulpix.png",
+        "response_time": 0.002518892288208008,
+        "pokemon": "Vulpix"
+    },
+    {
+        "file_name": "wailmer.png",
+        "response_time": 0.0025260448455810547,
+        "pokemon": "Wailmer"
+    },
+    {
+        "file_name": "wailord.png",
+        "response_time": 0.0025072097778320312,
+        "pokemon": "Wailord"
+    },
+    {
+        "file_name": "walking-wake.png",
+        "response_time": 0.003991127014160156,
+        "pokemon": "Suicune"
+    },
+    {
+        "file_name": "walrein.png",
+        "response_time": 0.0030014514923095703,
+        "pokemon": "Walrein"
+    },
+    {
+        "file_name": "wartortle.png",
+        "response_time": 0.00299835205078125,
+        "pokemon": "Wartortle"
+    },
+    {
+        "file_name": "watchog.png",
+        "response_time": 0.002524852752685547,
+        "pokemon": "Watchog"
+    },
+    {
+        "file_name": "wattrel.png",
+        "response_time": 0.002021312713623047,
+        "pokemon": "Taillow"
+    },
+    {
+        "file_name": "weavile.png",
+        "response_time": 0.003014087677001953,
+        "pokemon": "Weavile"
+    },
+    {
+        "file_name": "weedle.png",
+        "response_time": 0.001993417739868164,
+        "pokemon": "Weedle"
+    },
+    {
+        "file_name": "weepinbell.png",
+        "response_time": 0.0029985904693603516,
+        "pokemon": "Weepinbell"
+    },
+    {
+        "file_name": "weezing-galar.png",
+        "response_time": 0.0020041465759277344,
+        "pokemon": "Talonflame"
+    },
+    {
+        "file_name": "weezing.png",
+        "response_time": 0.0025339126586914062,
+        "pokemon": "Weezing"
+    },
+    {
+        "file_name": "whimsicott.png",
+        "response_time": 0.0035619735717773438,
+        "pokemon": "Whimsicott"
+    },
+    {
+        "file_name": "whirlipede.png",
+        "response_time": 0.0025110244750976562,
+        "pokemon": "Whirlipede"
+    },
+    {
+        "file_name": "whiscash.png",
+        "response_time": 0.0030002593994140625,
+        "pokemon": "Whiscash"
+    },
+    {
+        "file_name": "whismur.png",
+        "response_time": 0.002001523971557617,
+        "pokemon": "Whismur"
+    },
+    {
+        "file_name": "wigglytuff.png",
+        "response_time": 0.003535032272338867,
+        "pokemon": "Wigglytuff"
+    },
+    {
+        "file_name": "wiglett.png",
+        "response_time": 0.0030281543731689453,
+        "pokemon": "Quagsire"
+    },
+    {
+        "file_name": "wimpod.png",
+        "response_time": 0.003535747528076172,
+        "pokemon": "Wimpod"
+    },
+    {
+        "file_name": "wingull.png",
+        "response_time": 0.0029993057250976562,
+        "pokemon": "Wingull"
+    },
+    {
+        "file_name": "wishiwashi-solo.png",
+        "response_time": 0.003525972366333008,
+        "pokemon": "Wishiwashi"
+    },
+    {
+        "file_name": "wo-chien.png",
+        "response_time": 0.0035216808319091797,
+        "pokemon": "Garbodor"
+    },
+    {
+        "file_name": "wobbuffet.png",
+        "response_time": 0.0040357112884521484,
+        "pokemon": "Wobbuffet"
+    },
+    {
+        "file_name": "woobat.png",
+        "response_time": 0.002518177032470703,
+        "pokemon": "Woobat"
+    },
+    {
+        "file_name": "wooloo.png",
+        "response_time": 0.003535747528076172,
+        "pokemon": "Wooloo"
+    },
+    {
+        "file_name": "wooper.png",
+        "response_time": 0.001994609832763672,
+        "pokemon": "Wooper"
+    },
+    {
+        "file_name": "wormadam-plant.png",
+        "response_time": 0.00452733039855957,
+        "pokemon": "Wormadam"
+    },
+    {
+        "file_name": "wormadam-sandy.png",
+        "response_time": 0.0025200843811035156,
+        "pokemon": "Wormadam"
+    },
+    {
+        "file_name": "wormadam-trash.png",
+        "response_time": 0.004046916961669922,
+        "pokemon": "Wormadam"
+    },
+    {
+        "file_name": "wugtrio.png",
+        "response_time": 0.0025169849395751953,
+        "pokemon": "Torkoal"
+    },
+    {
+        "file_name": "wurmple.png",
+        "response_time": 0.004048347473144531,
+        "pokemon": "Wurmple"
+    },
+    {
+        "file_name": "wynaut.png",
+        "response_time": 0.0025115013122558594,
+        "pokemon": "Wynaut"
+    },
+    {
+        "file_name": "wyrdeer.png",
+        "response_time": 0.004012346267700195,
+        "pokemon": "Stantler"
+    },
+    {
+        "file_name": "xatu.png",
+        "response_time": 0.0025179386138916016,
+        "pokemon": "Xatu"
+    },
+    {
+        "file_name": "xerneas.png",
+        "response_time": 0.004538774490356445,
+        "pokemon": "Xerneas"
+    },
+    {
+        "file_name": "xurkitree.png",
+        "response_time": 0.002524137496948242,
+        "pokemon": "Xurkitree"
+    },
+    {
+        "file_name": "yamask.png",
+        "response_time": 0.0025238990783691406,
+        "pokemon": "Yamask"
+    },
+    {
+        "file_name": "yamper.png",
+        "response_time": 0.0030007362365722656,
+        "pokemon": "Yamper"
+    },
+    {
+        "file_name": "yanma.png",
+        "response_time": 0.00452113151550293,
+        "pokemon": "Yanma"
+    },
+    {
+        "file_name": "yanmega.png",
+        "response_time": 0.002523660659790039,
+        "pokemon": "Yanmega"
+    },
+    {
+        "file_name": "yungoos.png",
+        "response_time": 0.004525423049926758,
+        "pokemon": "Yungoos"
+    },
+    {
+        "file_name": "yveltal.png",
+        "response_time": 0.0025129318237304688,
+        "pokemon": "Yveltal"
+    },
+    {
+        "file_name": "zacian-crowned.png",
+        "response_time": 0.004527568817138672,
+        "pokemon": "Tirtouga"
+    },
+    {
+        "file_name": "zacian.png",
+        "response_time": 0.002511739730834961,
+        "pokemon": "Gyarados"
+    },
+    {
+        "file_name": "zamazenta-crowned.png",
+        "response_time": 0.0025107860565185547,
+        "pokemon": "Butterfree"
+    },
+    {
+        "file_name": "zamazenta.png",
+        "response_time": 0.0030052661895751953,
+        "pokemon": "Zoroark"
+    },
+    {
+        "file_name": "zangoose.png",
+        "response_time": 0.002516031265258789,
+        "pokemon": "Zangoose"
+    },
+    {
+        "file_name": "zapdos-galar.png",
+        "response_time": 0.003031492233276367,
+        "pokemon": "Corsola"
+    },
+    {
+        "file_name": "zapdos.png",
+        "response_time": 0.0025153160095214844,
+        "pokemon": "Zapdos"
+    },
+    {
+        "file_name": "zarude-dada.png",
+        "response_time": 0.0030145645141601562,
+        "pokemon": "Torkoal"
+    },
+    {
+        "file_name": "zarude.png",
+        "response_time": 0.003544330596923828,
+        "pokemon": "Zarude"
+    },
+    {
+        "file_name": "zebstrika.png",
+        "response_time": 0.004518270492553711,
+        "pokemon": "Zebstrika"
+    },
+    {
+        "file_name": "zekrom.png",
+        "response_time": 0.0035293102264404297,
+        "pokemon": "Zekrom"
+    },
+    {
+        "file_name": "zeraora.png",
+        "response_time": 0.004014253616333008,
+        "pokemon": "Zeraora"
+    },
+    {
+        "file_name": "zigzagoon-galar.png",
+        "response_time": 0.0035300254821777344,
+        "pokemon": "Litwick"
+    },
+    {
+        "file_name": "zigzagoon.png",
+        "response_time": 0.004533052444458008,
+        "pokemon": "Zigzagoon"
+    },
+    {
+        "file_name": "zoroark.png",
+        "response_time": 0.003509044647216797,
+        "pokemon": "Zoroark"
+    },
+    {
+        "file_name": "zorua-hisui.png",
+        "response_time": 0.0035254955291748047,
+        "pokemon": "Dialga"
+    },
+    {
+        "file_name": "zorua.png",
+        "response_time": 0.0035200119018554688,
+        "pokemon": "Zorua"
+    },
+    {
+        "file_name": "zubat.png",
+        "response_time": 0.006069183349609375,
+        "pokemon": "Zubat"
+    },
+    {
+        "file_name": "zweilous.png",
+        "response_time": 0.0070226192474365234,
+        "pokemon": "Zweilous"
+    },
+    {
+        "file_name": "zygarde-10-power-construct.png",
+        "response_time": 0.005543947219848633,
+        "pokemon": "Zygarde"
+    },
+    {
+        "file_name": "zygarde-50.png",
+        "response_time": 0.002501964569091797,
+        "pokemon": "Zygarde"
+    },
+    {
+        "file_name": "zygarde-complete.png",
+        "response_time": 0.003525257110595703,
+        "pokemon": "Zygarde"
+    }
+]
