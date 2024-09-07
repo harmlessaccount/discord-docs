@@ -1,6 +1,0 @@
-aiohttp==3.9.5
-colorama==0.4.6
-Flask==3.0.3
-Pillow==10.4.0
-torch==2.3.0
-transformers==4.44.2
