@@ -6,7 +6,7 @@ This will teach you how to fetch embeds, read messages from a certain bot and li
 
 Create a file named `unbelieva.py`:
 
-```
+```python
 # unbelieva.py
 import discord
 from discord.ext import commands, tasks
@@ -86,7 +86,5 @@ async def total(ctx):
     await ctx.send(f'Total gained so far: {totalGained}')
 
 bot.run(token)
-
 ```
-
 Now, this works pretty good. There's some bandage fixes but overall it should be pretty reliable to run for a long time. It's simple code and might need some changes but most important: it works. We used basic python knowledge in real use-cases.

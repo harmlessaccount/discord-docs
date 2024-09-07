@@ -41,7 +41,8 @@ POST - https://discord.com/api/v9/invites/{invite_code}
 
 Response - 
 
-```{
+```python
+{
     "type": 0,
     "code": "XXXXX",
     "inviter": {
