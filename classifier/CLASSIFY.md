@@ -73,8 +73,8 @@ I made a basic cache implementation to help with recognition times. It just simp
 # Notes
 
 The accuracy of the classifier is NOT perfect. 
-- You can check [results.json](https://github.com/harmlessaccount/discord-docs/classifier/results.json) to verify how the classifier performed with some NON-CACHED data scraped from PokéTwo. 
-- You can check [results_cached.json](https://github.com/harmlessaccount/discord-docs/classifier/results_cached.json) to verify how the classifier performed with some CACHED data scraped from PokéTwo.
+- You can check [results.json](https://github.com/harmlessaccount/discord-docs/blob/main/classifier/results.json) to verify how the classifier performed with some NON-CACHED data scraped from PokéTwo. 
+- You can check [results_cached.json](https://github.com/harmlessaccount/discord-docs/blob/main/classifier/results_cached.json) to verify how the classifier performed with some CACHED data scraped from PokéTwo.
 - [Access PokéTwo scraped data](https://github.com/SmartGuy09/Poketwo-Data/tree/main).
 - [Read more](https://medium.com/@imjeffhi4/tutorial-using-vision-transformer-vit-to-create-a-pok%C3%A9mon-classifier-cb3f26ff2c20) about the model and a step-to-step guide on training it.
 - [HugginFace model.](https://medium.com/@imjeffhi4/tutorial-using-vision-transformer-vit-to-create-a-pok%C3%A9mon-classifier-cb3f26ff2c20)
