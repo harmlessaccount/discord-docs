@@ -4,7 +4,7 @@ This will teach you how to check for message edits, send slash commands and appl
 
 # Automation Script
 
-```
+```python
 import discord
 from discord.ext import commands
 import asyncio

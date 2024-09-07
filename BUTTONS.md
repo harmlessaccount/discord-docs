@@ -10,7 +10,7 @@ This represents buttons, and is what `button.click()` takes to function. Let's s
 
 # Automation Script
 
-```
+```python
 import discord
 from discord.ext import commands
 
