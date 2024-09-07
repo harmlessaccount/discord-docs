@@ -9,8 +9,8 @@ Run a virtual environment. You can install the packages globally in your machine
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/harmlessaccount/discord-docs/classifier
-   cd classifier
+   git clone https://github.com/harmlessaccount/discord-docs/
+   cd discord-docs/classifier
    ```
 2. **Create a Virtual Environment**
     ```bash
