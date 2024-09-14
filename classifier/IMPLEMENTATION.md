@@ -129,4 +129,4 @@ Predicted Pokémon: growlithe | Channel ID: 11111111111111111
 Predicted Pokémon: mewtwo | Channel ID: 11111111111111111
 ```
 
-The code is not complete for undetection or exceptions. That's for you to implement, this should already build a strong base for your catcher.
+The code is not complete for undetection or exceptions. That's for you to implement, this should already build a strong base for your catcher. Note that the pre-trained model we use does not contain data on Pokémon from all the generations, however, at [CLASSIFY.MD](https://github.com/harmlessaccount/discord-docs/blob/main/classifier/CLASSIFY.md) you can find a step-by-step tutorial on how to train the model further.
