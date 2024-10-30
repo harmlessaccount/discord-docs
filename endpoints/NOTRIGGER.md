@@ -89,3 +89,52 @@ Authorization: TOKEN
 }
 
 ```
+
+### **(GET)** /soundboard-default-sounds
+> Returns a JSON array with a sound object for each default sound.  
+
+> **Example Response**
+> ```
+> [
+>     {
+>         "name": "quack",
+>         "sound_id": "1",
+>         "volume": 1,
+>         "emoji_id": null,
+>         "emoji_name": "🦆",
+>         "override_path": "default_quack.mp3",
+>         "user_id": "643945264868098049"
+>     },
+>     ...
+> ]
+> ```
+
+### **(POST)** /channels/{channel.id}/voice-channel-effects
+> Plays the sound given in JSON body in the given channel; returns nothing.  
+
+> **JSON Params**
+> | FIELD | TYPE | DESCRIPTION |
+> | ----- | ---- | ----------- |
+> | sound_id | string | The sound's ID |
+> | emoji_id | string | The emoji's ID |
+> | emoji_name | string | The utf-8 version of the emoji or name of the custom emoji, example: 👻 |
+> | override_path | string | Read below for further information about this |
+> | source_guild_id | string | The guild id the sound is from |
+
+> We're unsure what the `override_path` is but from speculations it seems that it is the name of the sound file discord hosts. We've found that you only need to input this when playing a default sound.
+
+### **(POST)** /guilds/{guild.id}/soundboard-sounds
+> Uploads a custom sound to the given guild.  
+
+> **JSON Params**
+> | FIELD | TYPE | DESCRIPTION |
+> | ----- | ---- | ----------- |
+> | name | string | The name for the sound |
+> | emoji_id | string | The emoji's ID |
+> | volume | int | The volume level of the sound, max is 1 |
+> | sound | base64 data uri | Read below for further information about this |
+
+> To upload the sound through the API you need to encode your audio in Data URI base64.
+
+### **(DELETE)** /guilds/{guild.id}/soundboard-sounds/{sound.id}
+> Delete the given sound from the given guild.  
