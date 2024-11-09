@@ -18,7 +18,8 @@ Discord self-bots have been around for a while. They aim to automate tasks on Di
   - [GoLang TLS](https://github.com/bogdanfinn/tls-client)
   - [CClient](https://github.com/x04/cclient)
   - [ChromeDP](https://github.com/chromedp/chromedp)
-
+  - [curl_cffi](https://github.com/lexiforest/curl_cffi)
+  
   GoLang is generally preferred for creating human-like bots due to Python's limitations in this area.
 
 ## Directory
