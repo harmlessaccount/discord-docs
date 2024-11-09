@@ -1,6 +1,6 @@
 # Information about Session IDs
 
-This is a document about Session IDs on Discord. Reversing JS is necessary to know how they are generated. Work in progress.
+This is a document about Session IDs on Discord. Reversing JS is necessary to know how they are generated. Work is finished, found how to generate session IDs after digging more through the code.
 
 # Attributes
 
@@ -97,4 +97,31 @@ Response -
     },
     "new_member": true
 }
+```
+
+# Generate Session IDs
+```js
+function generateUUID() {
+    let crypto = globalThis.crypto || globalThis.msCrypto;
+    let randomValue = () => 16 * Math.random();
+    
+    try {
+        if (crypto && crypto.randomUUID)
+            return crypto.randomUUID().replace(/-/g, "");
+
+        if (crypto && crypto.getRandomValues) {
+            randomValue = () => {
+                let byte = new Uint8Array(1);
+                crypto.getRandomValues(byte);
+                return byte[0];
+            };
+        }
+    } catch (error) {
+        console.error("Error using crypto:", error);
+    }
+    
+    return "10000000100040008000100000000000".replace(/[018]/g, (character) => (character ^ (15 & randomValue()) >> character / 4).toString(16));
+}
+
+console.log(generateUUID());
 ```
