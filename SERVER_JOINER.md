@@ -163,3 +163,7 @@ Enter the Discord invite code: discord
 [INFO] Session ID generated successfully.
 [SUCCESS] Joined the guild successfully!
 ```
+
+# Notes
+
+You can go to [scripts/guild_joiner](https://github.com/harmlessaccount/discord-docs/tree/main/scripts/guild_joiner) and download all the requirements there with `pip install -r requirements.txt`.
